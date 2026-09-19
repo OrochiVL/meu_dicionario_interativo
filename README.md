@@ -1,0 +1,2 @@
+# meu_dicionario_interativo
+ESTE PROJECTO É A IMPLEMENTACAO DE UM DICIONARIO PORTUGUES AO&lt; 
