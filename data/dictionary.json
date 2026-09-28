@@ -1,0 +1,1592 @@
+[
+  {
+    "termo": "API",
+    "categoria": "Web",
+    "definicao": "Interface de Programação de Aplicações. Conjunto de regras que permite que dois sistemas de software comuniquem entre si."
+  },
+  {
+    "termo": "Array",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Coleção ordenada de elementos, geralmente do mesmo tipo, acedidos por um índice."
+  },
+  {
+    "termo": "Algoritmo",
+    "categoria": "Fundamentos",
+    "definicao": "Sequência finita e ordenada de instruções usada para resolver um problema ou executar uma tarefa."
+  },
+  {
+    "termo": "Variável",
+    "categoria": "Fundamentos",
+    "definicao": "Espaço nomeado na memória utilizado para armazenar um valor que pode ser consultado ou alterado durante a execução."
+  },
+  {
+    "termo": "Constante",
+    "categoria": "Fundamentos",
+    "definicao": "Valor definido para permanecer inalterado durante determinada execução ou contexto de um programa."
+  },
+  {
+    "termo": "Função",
+    "categoria": "Programação",
+    "definicao": "Bloco de código reutilizável criado para executar uma tarefa específica, podendo receber parâmetros e retornar um resultado."
+  },
+  {
+    "termo": "Parâmetro",
+    "categoria": "Programação",
+    "definicao": "Variável declarada na definição de uma função para receber um valor fornecido durante a chamada."
+  },
+  {
+    "termo": "Argumento",
+    "categoria": "Programação",
+    "definicao": "Valor efetivamente fornecido a uma função quando ela é chamada."
+  },
+  {
+    "termo": "Loop",
+    "categoria": "Controle de Fluxo",
+    "definicao": "Estrutura que permite repetir um conjunto de instruções enquanto uma condição for satisfeita ou durante determinado número de vezes."
+  },
+  {
+    "termo": "For",
+    "categoria": "Controle de Fluxo",
+    "definicao": "Estrutura de repetição normalmente utilizada quando se conhece ou controla a quantidade de iterações."
+  },
+  {
+    "termo": "While",
+    "categoria": "Controle de Fluxo",
+    "definicao": "Estrutura de repetição que executa um bloco de código enquanto uma condição for verdadeira."
+  },
+  {
+    "termo": "Do While",
+    "categoria": "Controle de Fluxo",
+    "definicao": "Estrutura de repetição que executa o bloco pelo menos uma vez e depois continua enquanto uma condição for verdadeira."
+  },
+  {
+    "termo": "If",
+    "categoria": "Controle de Fluxo",
+    "definicao": "Estrutura condicional utilizada para executar código apenas quando uma determinada condição é verdadeira."
+  },
+  {
+    "termo": "Else",
+    "categoria": "Controle de Fluxo",
+    "definicao": "Bloco executado quando a condição associada a uma estrutura if não é satisfeita."
+  },
+  {
+    "termo": "Switch",
+    "categoria": "Controle de Fluxo",
+    "definicao": "Estrutura de seleção utilizada para executar diferentes blocos de código com base no valor de uma expressão."
+  },
+  {
+    "termo": "Recursão",
+    "categoria": "Algoritmos",
+    "definicao": "Técnica em que uma função chama a si própria para resolver versões menores de um problema."
+  },
+  {
+    "termo": "Ponteiro",
+    "categoria": "C",
+    "definicao": "Variável que armazena o endereço de memória de outro objeto ou variável."
+  },
+  {
+    "termo": "Referência",
+    "categoria": "Programação",
+    "definicao": "Forma de acessar ou representar outro objeto ou valor sem necessariamente criar uma nova cópia dele."
+  },
+  {
+    "termo": "Memória",
+    "categoria": "Computação",
+    "definicao": "Recurso utilizado pelo computador para armazenar temporariamente ou permanentemente dados e instruções."
+  },
+  {
+    "termo": "Stack",
+    "categoria": "Memória",
+    "definicao": "Região de memória usada principalmente para armazenar chamadas de funções, variáveis locais e informações temporárias."
+  },
+  {
+    "termo": "Heap",
+    "categoria": "Memória",
+    "definicao": "Área de memória utilizada para alocação dinâmica de dados durante a execução de um programa."
+  },
+  {
+    "termo": "Alocação Dinâmica",
+    "categoria": "Memória",
+    "definicao": "Processo de reservar memória durante a execução do programa, em vez de determinar todo o espaço antecipadamente."
+  },
+  {
+    "termo": "Malloc",
+    "categoria": "C",
+    "definicao": "Função da linguagem C utilizada para reservar dinamicamente uma quantidade especificada de memória."
+  },
+  {
+    "termo": "Calloc",
+    "categoria": "C",
+    "definicao": "Função da linguagem C que reserva memória para vários elementos e inicializa os bytes alocados com zero."
+  },
+  {
+    "termo": "Realloc",
+    "categoria": "C",
+    "definicao": "Função usada para redimensionar um bloco de memória previamente alocado dinamicamente."
+  },
+  {
+    "termo": "Free",
+    "categoria": "C",
+    "definicao": "Função utilizada para libertar memória que foi previamente alocada dinamicamente."
+  },
+  {
+    "termo": "Struct",
+    "categoria": "C",
+    "definicao": "Tipo de dados que permite agrupar diferentes variáveis, possivelmente de tipos distintos, numa única estrutura."
+  },
+  {
+    "termo": "String",
+    "categoria": "Dados",
+    "definicao": "Sequência de caracteres usada para representar texto."
+  },
+  {
+    "termo": "Char",
+    "categoria": "C",
+    "definicao": "Tipo de dado utilizado para armazenar um único caractere."
+  },
+  {
+    "termo": "Integer",
+    "categoria": "Tipos de Dados",
+    "definicao": "Tipo de dado utilizado para representar números inteiros."
+  },
+  {
+    "termo": "Float",
+    "categoria": "Tipos de Dados",
+    "definicao": "Tipo numérico utilizado para representar valores com casas decimais."
+  },
+  {
+    "termo": "Boolean",
+    "categoria": "Tipos de Dados",
+    "definicao": "Tipo lógico que representa normalmente dois estados: verdadeiro ou falso."
+  },
+  {
+    "termo": "Casting",
+    "categoria": "Programação",
+    "definicao": "Conversão explícita de um valor de um tipo de dado para outro tipo compatível."
+  },
+  {
+    "termo": "Compilador",
+    "categoria": "Ferramentas",
+    "definicao": "Programa que transforma código-fonte de uma linguagem de programação em código executável ou outra forma de código."
+  },
+  {
+    "termo": "Interpretador",
+    "categoria": "Ferramentas",
+    "definicao": "Programa que executa código-fonte através de interpretação, normalmente sem produzir previamente um executável nativo completo."
+  },
+  {
+    "termo": "Código-Fonte",
+    "categoria": "Programação",
+    "definicao": "Conjunto de instruções escritas por programadores numa linguagem de programação."
+  },
+  {
+    "termo": "Executável",
+    "categoria": "Sistemas",
+    "definicao": "Arquivo contendo código que pode ser executado diretamente por um sistema compatível."
+  },
+  {
+    "termo": "Bug",
+    "categoria": "Programação",
+    "definicao": "Erro ou comportamento inesperado num programa que faz com que ele não funcione como pretendido."
+  },
+  {
+    "termo": "Debug",
+    "categoria": "Programação",
+    "definicao": "Processo de encontrar, analisar e corrigir erros num programa."
+  },
+  {
+    "termo": "Debugger",
+    "categoria": "Ferramentas",
+    "definicao": "Ferramenta que permite executar um programa de forma controlada para investigar seu comportamento e localizar erros."
+  },
+  {
+    "termo": "Breakpoint",
+    "categoria": "Debug",
+    "definicao": "Ponto definido no código onde a execução pode ser temporariamente interrompida durante uma sessão de depuração."
+  },
+  {
+    "termo": "IDE",
+    "categoria": "Ferramentas",
+    "definicao": "Ambiente Integrado de Desenvolvimento que reúne recursos como editor de código, compilador, debugger e outras ferramentas."
+  },
+  {
+    "termo": "Terminal",
+    "categoria": "Sistemas",
+    "definicao": "Interface através da qual o utilizador pode executar comandos e interagir com o sistema operativo."
+  },
+  {
+    "termo": "Shell",
+    "categoria": "Sistemas",
+    "definicao": "Programa que interpreta comandos fornecidos pelo utilizador e permite interagir com o sistema operativo."
+  },
+  {
+    "termo": "Bash",
+    "categoria": "Linux",
+    "definicao": "Shell amplamente utilizado em sistemas Unix e Linux para executar comandos e scripts."
+  },
+  {
+    "termo": "Linux",
+    "categoria": "Sistemas Operativos",
+    "definicao": "Família de sistemas operativos baseados no kernel Linux e amplamente utilizada em servidores, desenvolvimento e infraestrutura."
+  },
+  {
+    "termo": "Kernel",
+    "categoria": "Sistemas Operativos",
+    "definicao": "Componente central de um sistema operativo responsável por gerir recursos como CPU, memória e dispositivos."
+  },
+  {
+    "termo": "Processo",
+    "categoria": "Sistemas",
+    "definicao": "Instância de um programa em execução, com recursos e espaço de memória associados."
+  },
+  {
+    "termo": "Thread",
+    "categoria": "Sistemas",
+    "definicao": "Unidade de execução dentro de um processo que pode executar tarefas concorrentemente com outras threads."
+  },
+  {
+    "termo": "Concorrência",
+    "categoria": "Programação",
+    "definicao": "Capacidade de estruturar um programa para lidar com múltiplas tarefas em progresso durante o mesmo período."
+  },
+  {
+    "termo": "Paralelismo",
+    "categoria": "Computação",
+    "definicao": "Execução simultânea de múltiplas tarefas, geralmente utilizando diferentes núcleos ou unidades de processamento."
+  },
+  {
+    "termo": "Git",
+    "categoria": "Controle de Versão",
+    "definicao": "Sistema distribuído de controle de versões utilizado para acompanhar alterações em projetos de software."
+  },
+  {
+    "termo": "GitHub",
+    "categoria": "Desenvolvimento",
+    "definicao": "Plataforma de hospedagem e colaboração para projetos de software, amplamente utilizada em conjunto com Git."
+  },
+  {
+    "termo": "Repository",
+    "categoria": "Git",
+    "definicao": "Local onde os arquivos e o histórico de versões de um projeto controlado pelo Git são armazenados."
+  },
+  {
+    "termo": "Commit",
+    "categoria": "Git",
+    "definicao": "Registo no histórico do Git que representa um conjunto de alterações guardadas no projeto."
+  },
+  {
+    "termo": "Branch",
+    "categoria": "Git",
+    "definicao": "Linha independente de desenvolvimento dentro de um repositório Git."
+  },
+  {
+    "termo": "Merge",
+    "categoria": "Git",
+    "definicao": "Operação que combina alterações de uma branch com outra."
+  },
+  {
+    "termo": "Clone",
+    "categoria": "Git",
+    "definicao": "Operação que cria uma cópia local de um repositório remoto."
+  },
+  {
+    "termo": "Push",
+    "categoria": "Git",
+    "definicao": "Operação que envia commits de um repositório local para um repositório remoto."
+  },
+  {
+    "termo": "Pull",
+    "categoria": "Git",
+    "definicao": "Operação que obtém alterações de um repositório remoto e as integra no repositório local."
+  },
+  {
+    "termo": "Fetch",
+    "categoria": "Git",
+    "definicao": "Operação que obtém informações e alterações do repositório remoto sem necessariamente integrá-las na branch atual."
+  },
+  {
+    "termo": "Pull Request",
+    "categoria": "GitHub",
+    "definicao": "Proposta para integrar alterações de uma branch noutra, permitindo revisão e discussão antes da integração."
+  },
+  {
+    "termo": "Merge Conflict",
+    "categoria": "Git",
+    "definicao": "Situação em que o Git não consegue determinar automaticamente como combinar alterações incompatíveis."
+  },
+  {
+    "termo": "Gitignore",
+    "categoria": "Git",
+    "definicao": "Arquivo que especifica ficheiros e diretórios que devem ser ignorados pelo Git."
+  },
+  {
+    "termo": "HTML",
+    "categoria": "Web",
+    "definicao": "Linguagem de marcação utilizada para estruturar o conteúdo de páginas web."
+  },
+  {
+    "termo": "CSS",
+    "categoria": "Web",
+    "definicao": "Linguagem utilizada para definir a apresentação visual e o layout de documentos web."
+  },
+  {
+    "termo": "JavaScript",
+    "categoria": "Web",
+    "definicao": "Linguagem de programação amplamente utilizada para adicionar comportamento e interatividade a páginas e aplicações."
+  },
+  {
+    "termo": "DOM",
+    "categoria": "Web",
+    "definicao": "Modelo em árvore que representa a estrutura de um documento HTML ou XML e permite manipulá-lo através de código."
+  },
+  {
+    "termo": "Frontend",
+    "categoria": "Web",
+    "definicao": "Parte de uma aplicação web que é executada no lado do utilizador e com a qual ele interage diretamente."
+  },
+  {
+    "termo": "Backend",
+    "categoria": "Web",
+    "definicao": "Parte de uma aplicação responsável pelo processamento, regras de negócio, acesso a dados e serviços no servidor."
+  },
+  {
+    "termo": "Full Stack",
+    "categoria": "Web",
+    "definicao": "Abordagem de desenvolvimento que envolve tanto tecnologias de frontend como de backend."
+  },
+  {
+    "termo": "HTTP",
+    "categoria": "Web",
+    "definicao": "Protocolo utilizado para comunicação entre clientes e servidores na Web."
+  },
+  {
+    "termo": "HTTPS",
+    "categoria": "Web",
+    "definicao": "Versão do HTTP protegida por TLS, utilizada para cifrar a comunicação entre cliente e servidor."
+  },
+  {
+    "termo": "URL",
+    "categoria": "Web",
+    "definicao": "Endereço utilizado para localizar um recurso na Internet."
+  },
+  {
+    "termo": "DNS",
+    "categoria": "Redes",
+    "definicao": "Sistema que traduz nomes de domínio, como exemplo.com, para endereços IP."
+  },
+  {
+    "termo": "IP",
+    "categoria": "Redes",
+    "definicao": "Endereço utilizado para identificar uma interface ou dispositivo numa rede que utiliza o protocolo IP."
+  },
+  {
+    "termo": "TCP",
+    "categoria": "Redes",
+    "definicao": "Protocolo de transporte orientado à conexão que fornece entrega ordenada e confiável de dados."
+  },
+  {
+    "termo": "UDP",
+    "categoria": "Redes",
+    "definicao": "Protocolo de transporte simples e sem conexão que prioriza baixa sobrecarga e velocidade."
+  },
+  {
+    "termo": "JSON",
+    "categoria": "Dados",
+    "definicao": "Formato textual utilizado para representar e trocar dados estruturados."
+  },
+  {
+    "termo": "XML",
+    "categoria": "Dados",
+    "definicao": "Linguagem de marcação utilizada para representar dados estruturados de forma hierárquica."
+  },
+  {
+    "termo": "REST",
+    "categoria": "APIs",
+    "definicao": "Estilo arquitetural utilizado para projetar serviços web baseados em recursos e operações HTTP."
+  },
+  {
+    "termo": "Endpoint",
+    "categoria": "APIs",
+    "definicao": "URL ou ponto específico de uma API através do qual um cliente pode solicitar ou enviar dados."
+  },
+  {
+    "termo": "Request",
+    "categoria": "Web",
+    "definicao": "Pedido enviado por um cliente para solicitar uma operação ou recurso de um servidor."
+  },
+  {
+    "termo": "Response",
+    "categoria": "Web",
+    "definicao": "Mensagem enviada pelo servidor em resposta a uma requisição do cliente."
+  },
+  {
+    "termo": "Cookie",
+    "categoria": "Web",
+    "definicao": "Pequeno conjunto de dados armazenado pelo navegador e associado a um determinado site."
+  },
+  {
+    "termo": "Session",
+    "categoria": "Web",
+    "definicao": "Mecanismo utilizado para manter informações relacionadas à interação de um utilizador com uma aplicação."
+  },
+  {
+    "termo": "Token (Autenticação)",
+    "categoria": "Segurança",
+    "definicao": "Valor utilizado para representar ou autorizar uma identidade, sessão ou permissão."
+  },
+  {
+    "termo": "JWT",
+    "categoria": "Segurança",
+    "definicao": "Formato compacto de token utilizado para transmitir informações entre partes de forma verificável."
+  },
+  {
+    "termo": "Autenticação",
+    "categoria": "Segurança",
+    "definicao": "Processo de verificar a identidade de um utilizador ou sistema."
+  },
+  {
+    "termo": "Autorização",
+    "categoria": "Segurança",
+    "definicao": "Processo de determinar quais recursos ou operações uma identidade autenticada pode utilizar."
+  },
+  {
+    "termo": "Criptografia",
+    "categoria": "Segurança",
+    "definicao": "Técnica de proteger informações através de transformações matemáticas que dificultam o acesso não autorizado."
+  },
+  {
+    "termo": "Hash",
+    "categoria": "Segurança",
+    "definicao": "Resultado de uma função que transforma dados de tamanho arbitrário num valor de tamanho determinado."
+  },
+  {
+    "termo": "SQL",
+    "categoria": "Bases de Dados",
+    "definicao": "Linguagem utilizada para consultar, inserir, alterar e gerir dados em bases de dados relacionais."
+  },
+  {
+    "termo": "Database",
+    "categoria": "Bases de Dados",
+    "definicao": "Sistema organizado para armazenar, gerir e consultar dados."
+  },
+  {
+    "termo": "Tabela",
+    "categoria": "Bases de Dados",
+    "definicao": "Estrutura de uma base de dados relacional formada por linhas e colunas."
+  },
+  {
+    "termo": "Registo",
+    "categoria": "Bases de Dados",
+    "definicao": "Linha de uma tabela que representa uma entidade ou conjunto específico de dados."
+  },
+  {
+    "termo": "Coluna",
+    "categoria": "Bases de Dados",
+    "definicao": "Campo de uma tabela que representa um determinado atributo dos registos."
+  },
+  {
+    "termo": "Primary Key",
+    "categoria": "Bases de Dados",
+    "definicao": "Coluna ou conjunto de colunas utilizado para identificar exclusivamente cada registo de uma tabela."
+  },
+  {
+    "termo": "Foreign Key",
+    "categoria": "Bases de Dados",
+    "definicao": "Campo que estabelece uma relação entre uma tabela e uma chave de outra tabela."
+  },
+  {
+    "termo": "Query",
+    "categoria": "Bases de Dados",
+    "definicao": "Consulta enviada a uma base de dados para obter ou manipular informações."
+  },
+  {
+    "termo": "SELECT",
+    "categoria": "SQL",
+    "definicao": "Comando SQL utilizado para consultar e recuperar dados de uma ou mais tabelas."
+  },
+  {
+    "termo": "INSERT",
+    "categoria": "SQL",
+    "definicao": "Comando SQL utilizado para adicionar novos registos a uma tabela."
+  },
+  {
+    "termo": "UPDATE",
+    "categoria": "SQL",
+    "definicao": "Comando SQL utilizado para alterar dados existentes numa tabela."
+  },
+  {
+    "termo": "DELETE",
+    "categoria": "SQL",
+    "definicao": "Comando SQL utilizado para remover registos de uma tabela."
+  },
+  {
+    "termo": "JOIN",
+    "categoria": "SQL",
+    "definicao": "Operação que combina dados de duas ou mais tabelas com base numa relação entre elas."
+  },
+  {
+    "termo": "Index",
+    "categoria": "Bases de Dados",
+    "definicao": "Estrutura auxiliar criada para acelerar determinadas consultas numa base de dados."
+  },
+  {
+    "termo": "Schema",
+    "categoria": "Bases de Dados",
+    "definicao": "Estrutura ou definição que descreve a organização dos dados e objetos de uma base de dados."
+  },
+  {
+    "termo": "Transação",
+    "categoria": "Bases de Dados",
+    "definicao": "Conjunto de operações tratado como uma unidade lógica de trabalho."
+  },
+  {
+    "termo": "ACID",
+    "categoria": "Bases de Dados",
+    "definicao": "Conjunto de propriedades que asseguram atomicidade, consistência, isolamento e durabilidade nas transações."
+  },
+  {
+    "termo": "Normalização",
+    "categoria": "Bases de Dados",
+    "definicao": "Processo de organizar dados em tabelas relacionadas para reduzir redundância e melhorar a consistência."
+  },
+  {
+    "termo": "NoSQL",
+    "categoria": "Bases de Dados",
+    "definicao": "Categoria de sistemas de bases de dados que não dependem exclusivamente do modelo relacional tradicional."
+  },
+  {
+    "termo": "MongoDB",
+    "categoria": "Bases de Dados",
+    "definicao": "Sistema de base de dados NoSQL orientado a documentos."
+  },
+  {
+    "termo": "PostgreSQL",
+    "categoria": "Bases de Dados",
+    "definicao": "Sistema de gestão de bases de dados relacional e objeto-relacional de código aberto."
+  },
+  {
+    "termo": "MySQL",
+    "categoria": "Bases de Dados",
+    "definicao": "Sistema de gestão de bases de dados relacionais amplamente utilizado em aplicações web."
+  },
+  {
+    "termo": "Python",
+    "categoria": "Linguagens",
+    "definicao": "Linguagem de programação de alto nível conhecida pela sintaxe relativamente simples e ampla utilização em dados, web, automação e IA."
+  },
+  {
+    "termo": "Pandas",
+    "categoria": "Python",
+    "definicao": "Biblioteca Python utilizada principalmente para manipulação e análise de dados estruturados."
+  },
+  {
+    "termo": "NumPy",
+    "categoria": "Python",
+    "definicao": "Biblioteca Python especializada em computação numérica e operações eficientes com arrays multidimensionais."
+  },
+  {
+    "termo": "Matplotlib",
+    "categoria": "Python",
+    "definicao": "Biblioteca Python utilizada para criar gráficos e visualizações de dados."
+  },
+  {
+    "termo": "PyPI",
+    "categoria": "Python",
+    "definicao": "Repositório oficial de pacotes de software para a linguagem Python."
+  },
+  {
+    "termo": "Pip",
+    "categoria": "Python",
+    "definicao": "Ferramenta utilizada para instalar e gerir pacotes Python."
+  },
+  {
+    "termo": "Virtual Environment",
+    "categoria": "Python",
+    "definicao": "Ambiente isolado utilizado para instalar dependências Python específicas de um projeto."
+  },
+  {
+    "termo": "List",
+    "categoria": "Python",
+    "definicao": "Estrutura de dados Python mutável utilizada para armazenar uma sequência ordenada de elementos."
+  },
+  {
+    "termo": "Tuple",
+    "categoria": "Python",
+    "definicao": "Estrutura de dados Python ordenada e imutável que pode armazenar vários elementos."
+  },
+  {
+    "termo": "Dictionary",
+    "categoria": "Python",
+    "definicao": "Estrutura Python que armazena pares de chave e valor."
+  },
+  {
+    "termo": "Set",
+    "categoria": "Python",
+    "definicao": "Coleção Python que armazena elementos únicos e não mantém uma ordem indexada tradicional."
+  },
+  {
+    "termo": "Lambda",
+    "categoria": "Python",
+    "definicao": "Função anónima geralmente utilizada para expressões pequenas e operações simples."
+  },
+  {
+    "termo": "List Comprehension",
+    "categoria": "Python",
+    "definicao": "Sintaxe compacta do Python para criar listas a partir de iteráveis e condições."
+  },
+  {
+    "termo": "Exception",
+    "categoria": "Programação",
+    "definicao": "Evento que representa uma condição anormal ou erro ocorrido durante a execução de um programa."
+  },
+  {
+    "termo": "Try",
+    "categoria": "Programação",
+    "definicao": "Bloco utilizado para envolver código que pode gerar uma exceção."
+  },
+  {
+    "termo": "Catch",
+    "categoria": "Programação",
+    "definicao": "Estrutura usada em algumas linguagens para capturar e tratar exceções lançadas durante a execução."
+  },
+  {
+    "termo": "API Key",
+    "categoria": "Segurança",
+    "definicao": "Credencial utilizada para identificar ou autorizar aplicações que acedem a determinados serviços de API."
+  },
+  {
+    "termo": "Framework",
+    "categoria": "Desenvolvimento",
+    "definicao": "Conjunto estruturado de ferramentas, bibliotecas e convenções que facilita o desenvolvimento de aplicações."
+  },
+  {
+    "termo": "Biblioteca",
+    "categoria": "Desenvolvimento",
+    "definicao": "Conjunto reutilizável de código que fornece funções ou recursos para serem utilizados por outros programas."
+  },
+  {
+    "termo": "Package",
+    "categoria": "Desenvolvimento",
+    "definicao": "Conjunto distribuível de código e recursos que pode ser instalado e utilizado num projeto."
+  },
+  {
+    "termo": "Dependency",
+    "categoria": "Desenvolvimento",
+    "definicao": "Biblioteca, pacote ou componente externo de que um projeto depende para funcionar."
+  },
+  {
+    "termo": "Module",
+    "categoria": "Programação",
+    "definicao": "Unidade de código organizada de forma independente e que pode ser importada ou reutilizada."
+  },
+  {
+    "termo": "Namespace",
+    "categoria": "Programação",
+    "definicao": "Mecanismo utilizado para organizar nomes e evitar conflitos entre identificadores."
+  },
+  {
+    "termo": "Abstração",
+    "categoria": "Programação",
+    "definicao": "Técnica de representar os aspetos essenciais de um sistema enquanto se escondem detalhes desnecessários."
+  },
+  {
+    "termo": "Encapsulamento",
+    "categoria": "Programação Orientada a Objetos",
+    "definicao": "Princípio que combina dados e comportamentos e controla o acesso aos detalhes internos de um objeto."
+  },
+  {
+    "termo": "Herança",
+    "categoria": "Programação Orientada a Objetos",
+    "definicao": "Mecanismo pelo qual uma classe pode adquirir características e comportamentos de outra classe."
+  },
+  {
+    "termo": "Polimorfismo",
+    "categoria": "Programação Orientada a Objetos",
+    "definicao": "Capacidade de diferentes objetos responderem à mesma interface ou operação de maneiras diferentes."
+  },
+  {
+    "termo": "Classe",
+    "categoria": "Programação Orientada a Objetos",
+    "definicao": "Estrutura que define atributos e comportamentos que podem ser utilizados por objetos."
+  },
+  {
+    "termo": "Objeto",
+    "categoria": "Programação Orientada a Objetos",
+    "definicao": "Instância de uma classe que possui estado e comportamentos definidos."
+  },
+  {
+    "termo": "Método",
+    "categoria": "Programação Orientada a Objetos",
+    "definicao": "Função associada a uma classe ou objeto."
+  },
+  {
+    "termo": "Construtor",
+    "categoria": "Programação Orientada a Objetos",
+    "definicao": "Método especial utilizado para inicializar um objeto quando ele é criado."
+  },
+  {
+    "termo": "Interface",
+    "categoria": "Programação",
+    "definicao": "Contrato que define operações ou comportamentos que uma implementação deve fornecer."
+  },
+  {
+    "termo": "Pilha",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Estrutura de dados baseada no princípio LIFO, em que o último elemento inserido é o primeiro a ser removido."
+  },
+  {
+    "termo": "Fila",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Estrutura de dados baseada no princípio FIFO, em que o primeiro elemento inserido é o primeiro a ser removido."
+  },
+  {
+    "termo": "Linked List",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Estrutura formada por nós ligados entre si através de referências ou ponteiros."
+  },
+  {
+    "termo": "Node",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Elemento individual de estruturas como listas ligadas, árvores e grafos."
+  },
+  {
+    "termo": "Árvore",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Estrutura hierárquica composta por nós relacionados através de ligações entre elementos pai e filho."
+  },
+  {
+    "termo": "Binary Tree",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Árvore em que cada nó pode possuir no máximo dois filhos."
+  },
+  {
+    "termo": "Binary Search Tree",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Árvore binária organizada de forma a facilitar operações de pesquisa, inserção e remoção."
+  },
+  {
+    "termo": "Grafo",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Estrutura formada por vértices e arestas que representam relações entre elementos."
+  },
+  {
+    "termo": "Hash Table",
+    "categoria": "Estruturas de Dados",
+    "definicao": "Estrutura que utiliza uma função hash para associar chaves a posições e permitir acesso eficiente aos valores."
+  },
+  {
+    "termo": "Big O",
+    "categoria": "Algoritmos",
+    "definicao": "Notação utilizada para descrever como o custo computacional de um algoritmo cresce em função do tamanho da entrada."
+  },
+  {
+    "termo": "Complexidade Temporal",
+    "categoria": "Algoritmos",
+    "definicao": "Medida de como o tempo de execução de um algoritmo varia conforme aumenta o tamanho da entrada."
+  },
+  {
+    "termo": "Complexidade Espacial",
+    "categoria": "Algoritmos",
+    "definicao": "Medida da quantidade de memória adicional necessária para executar um algoritmo."
+  },
+  {
+    "termo": "Busca Linear",
+    "categoria": "Algoritmos",
+    "definicao": "Algoritmo de pesquisa que verifica sequencialmente os elementos até encontrar o valor procurado."
+  },
+  {
+    "termo": "Busca Binária",
+    "categoria": "Algoritmos",
+    "definicao": "Algoritmo de pesquisa eficiente que divide repetidamente um conjunto ordenado em partes menores."
+  },
+  {
+    "termo": "Bubble Sort",
+    "categoria": "Algoritmos",
+    "definicao": "Algoritmo de ordenação que compara elementos adjacentes e os troca quando estão na ordem incorreta."
+  },
+  {
+    "termo": "Merge Sort",
+    "categoria": "Algoritmos",
+    "definicao": "Algoritmo de ordenação baseado na divisão do conjunto em partes menores e posterior combinação ordenada."
+  },
+  {
+    "termo": "Quick Sort",
+    "categoria": "Algoritmos",
+    "definicao": "Algoritmo de ordenação baseado na escolha de um elemento pivô e na divisão dos elementos em relação a ele."
+  },
+  {
+    "termo": "Recursividade",
+    "categoria": "Algoritmos",
+    "definicao": "Característica de um algoritmo ou função que resolve um problema através de chamadas a si próprio."
+  },
+  {
+    "termo": "Pseudocódigo",
+    "categoria": "Algoritmos",
+    "definicao": "Descrição estruturada de um algoritmo utilizando linguagem próxima da linguagem humana, sem depender de uma sintaxe específica."
+  },
+  {
+    "termo": "Fluxograma",
+    "categoria": "Algoritmos",
+    "definicao": "Representação gráfica das etapas e decisões de um algoritmo ou processo."
+  },
+  {
+    "termo": "Docker",
+    "categoria": "DevOps",
+    "definicao": "Plataforma utilizada para criar, executar e distribuir aplicações em containers."
+  },
+  {
+    "termo": "Container",
+    "categoria": "DevOps",
+    "definicao": "Ambiente isolado que empacota uma aplicação e as suas dependências para execução consistente."
+  },
+  {
+    "termo": "Dockerfile",
+    "categoria": "Docker",
+    "definicao": "Arquivo que contém instruções utilizadas para construir uma imagem Docker."
+  },
+  {
+    "termo": "Image",
+    "categoria": "Docker",
+    "definicao": "Pacote imutável que contém o sistema de ficheiros e informações necessárias para criar um container."
+  },
+  {
+    "termo": "CI/CD",
+    "categoria": "DevOps",
+    "definicao": "Práticas de integração, teste e entrega ou implantação automatizada de software."
+  },
+  {
+    "termo": "Pipeline",
+    "categoria": "DevOps",
+    "definicao": "Sequência automatizada de etapas usadas para construir, testar, verificar e disponibilizar software."
+  },
+  {
+    "termo": "Deploy",
+    "categoria": "DevOps",
+    "definicao": "Processo de disponibilizar uma aplicação ou nova versão num ambiente onde pode ser utilizada."
+  },
+  {
+    "termo": "Build",
+    "categoria": "Desenvolvimento",
+    "definicao": "Processo de transformar código-fonte e recursos num artefacto executável ou distribuível."
+  },
+  {
+    "termo": "Teste Unitário",
+    "categoria": "Testes",
+    "definicao": "Teste automatizado destinado a verificar o comportamento de uma pequena unidade isolada de código."
+  },
+  {
+    "termo": "Teste de Integração",
+    "categoria": "Testes",
+    "definicao": "Teste que verifica se diferentes componentes ou sistemas funcionam corretamente em conjunto."
+  },
+  {
+    "termo": "Teste End-to-End",
+    "categoria": "Testes",
+    "definicao": "Teste que verifica uma aplicação através de um fluxo completo, desde a entrada até ao resultado final."
+  },
+  {
+    "termo": "Refatoração",
+    "categoria": "Engenharia de Software",
+    "definicao": "Processo de melhorar a estrutura interna do código sem alterar o comportamento externo esperado."
+  },
+  {
+    "termo": "Clean Code",
+    "categoria": "Engenharia de Software",
+    "definicao": "Conjunto de princípios que procura tornar o código mais legível, compreensível, sustentável e fácil de modificar."
+  },
+  {
+    "termo": "DRY",
+    "categoria": "Engenharia de Software",
+    "definicao": "Princípio 'Don't Repeat Yourself' que incentiva evitar duplicação desnecessária de lógica ou conhecimento."
+  },
+  {
+    "termo": "KISS",
+    "categoria": "Engenharia de Software",
+    "definicao": "Princípio que recomenda manter soluções tão simples quanto possível, evitando complexidade desnecessária."
+  },
+  {
+    "termo": "SOLID",
+    "categoria": "Engenharia de Software",
+    "definicao": "Conjunto de cinco princípios utilizados para melhorar a estrutura e manutenção de software orientado a objetos."
+  },
+  {
+    "termo": "Cloud Computing",
+    "categoria": "Cloud",
+    "definicao": "Modelo de computação que disponibiliza recursos como servidores, armazenamento e serviços através da Internet."
+  },
+  {
+    "termo": "AWS",
+    "categoria": "Cloud",
+    "definicao": "Plataforma de computação em nuvem da Amazon que disponibiliza uma ampla variedade de serviços."
+  },
+  {
+    "termo": "Azure",
+    "categoria": "Cloud",
+    "definicao": "Plataforma de computação em nuvem da Microsoft."
+  },
+  {
+    "termo": "Google Cloud",
+    "categoria": "Cloud",
+    "definicao": "Plataforma de serviços de computação em nuvem disponibilizada pela Google."
+  },
+  {
+    "termo": "Virtual Machine",
+    "categoria": "Cloud",
+    "definicao": "Ambiente virtualizado que funciona como um computador independente dentro de um sistema físico ou infraestrutura virtual."
+  },
+  {
+    "termo": "Serverless",
+    "categoria": "Cloud",
+    "definicao": "Modelo de computação em que a infraestrutura de servidores é gerida pelo provedor e o programador se concentra no código e nos serviços."
+  },
+  {
+    "termo": "SaaS",
+    "categoria": "Cloud",
+    "definicao": "Modelo em que uma aplicação é disponibilizada como serviço, normalmente através da Internet."
+  },
+  {
+    "termo": "PaaS",
+    "categoria": "Cloud",
+    "definicao": "Modelo que fornece uma plataforma gerida para desenvolver, executar e disponibilizar aplicações."
+  },
+  {
+    "termo": "IaaS",
+    "categoria": "Cloud",
+    "definicao": "Modelo que disponibiliza recursos de infraestrutura virtualizados, como servidores, redes e armazenamento."
+  },
+  {
+    "termo": "Machine Learning",
+    "categoria": "Inteligência Artificial",
+    "definicao": "Área da inteligência artificial em que sistemas aprendem padrões a partir de dados para realizar determinadas tarefas."
+  },
+  {
+    "termo": "Deep Learning",
+    "categoria": "Inteligência Artificial",
+    "definicao": "Subárea de machine learning baseada principalmente em redes neurais com múltiplas camadas."
+  },
+  {
+    "termo": "Rede Neural",
+    "categoria": "Inteligência Artificial",
+    "definicao": "Modelo computacional inspirado de forma abstrata no funcionamento de redes de neurónios e utilizado para aprender padrões."
+  },
+  {
+    "termo": "Dataset",
+    "categoria": "Dados",
+    "definicao": "Conjunto organizado de dados utilizado para análise, treinamento, teste ou outros fins computacionais."
+  },
+  {
+    "termo": "Feature",
+    "categoria": "Machine Learning",
+    "definicao": "Variável ou atributo utilizado como entrada para um modelo de aprendizagem automática."
+  },
+  {
+    "termo": "Label",
+    "categoria": "Machine Learning",
+    "definicao": "Valor ou classe que representa o resultado esperado num conjunto de dados supervisionado."
+  },
+  {
+    "termo": "Treino",
+    "categoria": "Machine Learning",
+    "definicao": "Processo de ajustar os parâmetros de um modelo utilizando dados para que ele aprenda determinados padrões."
+  },
+  {
+    "termo": "Modelo",
+    "categoria": "Machine Learning",
+    "definicao": "Representação matemática ou computacional treinada para produzir previsões, classificações ou outros resultados."
+  },
+  {
+    "termo": "Overfitting",
+    "categoria": "Machine Learning",
+    "definicao": "Situação em que um modelo aprende excessivamente os detalhes dos dados de treino e apresenta pior desempenho em dados novos."
+  },
+  {
+    "termo": "Underfitting",
+    "categoria": "Machine Learning",
+    "definicao": "Situação em que um modelo é demasiado simples para capturar adequadamente os padrões relevantes dos dados."
+  },
+  {
+    "termo": "Regressão",
+    "categoria": "Machine Learning",
+    "definicao": "Tipo de problema de aprendizagem supervisionada em que o objetivo é prever valores numéricos."
+  },
+  {
+    "termo": "Classificação",
+    "categoria": "Machine Learning",
+    "definicao": "Tipo de problema de aprendizagem supervisionada em que o objetivo é atribuir dados a categorias."
+  },
+  {
+    "termo": "NLP",
+    "categoria": "Inteligência Artificial",
+    "definicao": "Área da IA dedicada ao processamento e compreensão de linguagem natural por computadores."
+  },
+  {
+    "termo": "LLM",
+    "categoria": "Inteligência Artificial",
+    "definicao": "Modelo de linguagem de grande escala treinado com grandes quantidades de dados para processar e gerar linguagem."
+  },
+  {
+    "termo": "Prompt",
+    "categoria": "Inteligência Artificial",
+    "definicao": "Instrução ou entrada fornecida a um modelo de IA para orientar a resposta ou tarefa que deve executar."
+  },
+  {
+    "termo": "Tokenização",
+    "categoria": "Inteligência Artificial",
+    "definicao": "Processo de dividir um texto em unidades menores chamadas tokens para processamento computacional."
+  },
+  {
+    "termo": "Data Science",
+    "categoria": "Dados",
+    "definicao": "Área interdisciplinar que utiliza programação, estatística e conhecimento de domínio para extrair informação útil de dados."
+  },
+  {
+    "termo": "Data Analysis",
+    "categoria": "Dados",
+    "definicao": "Processo de examinar, transformar e interpretar dados para encontrar padrões e obter informações úteis."
+  },
+  {
+    "termo": "Data Engineering",
+    "categoria": "Dados",
+    "definicao": "Área responsável pela construção e manutenção de sistemas e pipelines que recolhem, transformam e disponibilizam dados."
+  },
+  {
+    "termo": "ETL",
+    "categoria": "Dados",
+    "definicao": "Processo de extrair dados de fontes, transformá-los e carregá-los num sistema de destino."
+  },
+  {
+    "termo": "ELT",
+    "categoria": "Dados",
+    "definicao": "Processo de extrair e carregar dados antes de realizar as transformações no sistema de destino."
+  },
+  {
+    "termo": "Data Warehouse",
+    "categoria": "Dados",
+    "definicao": "Sistema centralizado utilizado principalmente para armazenar dados estruturados destinados a análise e relatórios."
+  },
+  {
+    "termo": "Data Lake",
+    "categoria": "Dados",
+    "definicao": "Repositório capaz de armazenar grandes volumes de dados em diferentes formatos, incluindo dados brutos."
+  },
+  {
+    "termo": "Pipeline de Dados",
+    "categoria": "Dados",
+    "definicao": "Conjunto de processos automatizados que transportam e transformam dados entre diferentes sistemas."
+  },
+  {
+    "termo": "CSV",
+    "categoria": "Dados",
+    "definicao": "Formato textual utilizado para representar dados tabulares separados normalmente por vírgulas ou outro delimitador."
+  },
+  {
+    "termo": "RegEx",
+    "categoria": "Programação",
+    "definicao": "Sistema de padrões utilizado para pesquisar, validar ou manipular sequências de texto."
+  },
+  {
+    "termo": "CLI",
+    "categoria": "Ferramentas",
+    "definicao": "Interface de Linha de Comandos que permite interagir com um programa ou sistema através de comandos textuais."
+  },
+  {
+    "termo": "GUI",
+    "categoria": "Computação",
+    "definicao": "Interface Gráfica do Utilizador que permite interagir com um sistema através de elementos visuais."
+  },
+  {
+    "termo": "Open Source",
+    "categoria": "Software",
+    "definicao": "Modelo de desenvolvimento em que o código-fonte é disponibilizado sob condições definidas por uma licença de código aberto."
+  },
+  {
+    "termo": "Licença de Software",
+    "categoria": "Software",
+    "definicao": "Conjunto de termos legais que define como um software pode ser utilizado, modificado e distribuído."
+  },
+  {
+    "termo": "README",
+    "categoria": "Documentação",
+    "definicao": "Arquivo normalmente utilizado para explicar um projeto, incluindo instalação, utilização, configuração e outras informações relevantes."
+  },
+  {
+    "termo": "Documentation",
+    "categoria": "Engenharia de Software",
+    "definicao": "Conjunto de informações que explica como um sistema, código, API ou ferramenta funciona e deve ser utilizado."
+  },
+  {
+    "termo": "Versionamento",
+    "categoria": "Engenharia de Software",
+    "definicao": "Processo de identificar e controlar diferentes versões de um software ou conjunto de ficheiros."
+  },
+  {
+    "termo": "SemVer",
+    "categoria": "Software",
+    "definicao": "Sistema de versionamento semântico que utiliza números de versão para comunicar alterações e compatibilidade."
+  },
+  {
+    "termo": "Patch",
+    "categoria": "Software",
+    "definicao": "Atualização geralmente pequena destinada a corrigir erros, vulnerabilidades ou problemas específicos."
+  },
+  {
+    "termo": "Release",
+    "categoria": "Software",
+    "definicao": "Versão de um software disponibilizada para utilização ou distribuição."
+  },
+  {
+    "termo": "Hotfix",
+    "categoria": "Software",
+    "definicao": "Correção rápida destinada a resolver um problema crítico, normalmente sem esperar pelo ciclo normal de lançamento."
+  },
+  {
+    "termo": "Lint",
+    "categoria": "Qualidade de Código",
+    "definicao": "Processo automatizado de análise do código para identificar problemas, padrões inadequados ou possíveis erros."
+  },
+  {
+    "termo": "Linter",
+    "categoria": "Ferramentas",
+    "definicao": "Ferramenta que analisa código-fonte para encontrar problemas de estilo, qualidade ou possíveis erros."
+  },
+  {
+    "termo": "Compiler Warning",
+    "categoria": "C",
+    "definicao": "Aviso produzido pelo compilador sobre uma construção de código potencialmente problemática ou suspeita."
+  },
+  {
+    "termo": "Segmentation Fault",
+    "categoria": "C",
+    "definicao": "Erro de execução que ocorre quando um programa tenta acessar uma região de memória de forma inválida."
+  },
+  {
+    "termo": "Memory Leak",
+    "categoria": "C",
+    "definicao": "Situação em que memória alocada dinamicamente deixa de ser utilizada mas não é libertada corretamente."
+  },
+  {
+    "termo": "Buffer",
+    "categoria": "Programação",
+    "definicao": "Área de memória utilizada temporariamente para armazenar dados durante operações de entrada, saída ou processamento."
+  },
+  {
+    "termo": "Buffer Overflow",
+    "categoria": "Segurança",
+    "definicao": "Falha que ocorre quando dados são escritos além dos limites de um buffer."
+  },
+  {
+    "termo": "File Descriptor",
+    "categoria": "Unix",
+    "definicao": "Identificador numérico utilizado por sistemas Unix para representar recursos abertos, como ficheiros ou dispositivos."
+  },
+  {
+    "termo": "System Call",
+    "categoria": "Sistemas Operativos",
+    "definicao": "Mecanismo através do qual um programa solicita serviços ao kernel do sistema operativo."
+  },
+  {
+    "termo": "Pipe",
+    "categoria": "Unix",
+    "definicao": "Mecanismo de comunicação que permite encaminhar a saída de um processo para a entrada de outro."
+  },
+  {
+    "termo": "Process ID",
+    "categoria": "Sistemas",
+    "definicao": "Número utilizado pelo sistema operativo para identificar um processo em execução."
+  },
+  {
+    "termo": "Daemon",
+    "categoria": "Linux",
+    "definicao": "Processo executado em segundo plano que fornece um serviço ou realiza tarefas de forma contínua ou sob determinadas condições."
+  },
+  {
+    "termo": "SSH",
+    "categoria": "Redes",
+    "definicao": "Protocolo utilizado para estabelecer sessões seguras e executar comandos remotamente através de uma rede."
+  },
+  {
+    "termo": "Porta",
+    "categoria": "Redes",
+    "definicao": "Número lógico utilizado para identificar um serviço ou aplicação numa comunicação de rede."
+  },
+  {
+    "termo": "Firewall",
+    "categoria": "Segurança",
+    "definicao": "Sistema que controla o tráfego de rede com base em regras de segurança."
+  },
+  {
+    "termo": "Load Balancer",
+    "categoria": "Infraestrutura",
+    "definicao": "Sistema que distribui requisições entre múltiplos servidores ou recursos para melhorar disponibilidade e desempenho."
+  },
+  {
+    "termo": "Cache",
+    "categoria": "Computação",
+    "definicao": "Armazenamento temporário de dados para acelerar o acesso a informações que podem ser reutilizadas."
+  },
+  {
+    "termo": "Latency",
+    "categoria": "Redes",
+    "definicao": "Tempo necessário para que uma operação, mensagem ou pedido percorra o caminho entre origem e destino."
+  },
+  {
+    "termo": "Throughput",
+    "categoria": "Computação",
+    "definicao": "Quantidade de dados ou operações que um sistema consegue processar durante determinado período."
+  },
+  {
+    "termo": "Scalability",
+    "categoria": "Arquitetura",
+    "definicao": "Capacidade de um sistema aumentar a sua capacidade para suportar crescimento de utilizadores, dados ou carga."
+  },
+  {
+    "termo": "Microservices",
+    "categoria": "Arquitetura",
+    "definicao": "Estilo arquitetural em que uma aplicação é dividida em serviços menores e relativamente independentes."
+  },
+  {
+    "termo": "Monolith",
+    "categoria": "Arquitetura",
+    "definicao": "Aplicação construída como uma única unidade de software, com os seus principais componentes integrados."
+  },
+  {
+    "termo": "Message Queue",
+    "categoria": "Arquitetura",
+    "definicao": "Sistema que permite armazenar mensagens temporariamente para comunicação assíncrona entre componentes."
+  },
+  {
+    "termo": "WebSocket",
+    "categoria": "Web",
+    "definicao": "Protocolo que permite comunicação bidirecional persistente entre cliente e servidor."
+  },
+  {
+    "termo": "GraphQL",
+    "categoria": "APIs",
+    "definicao": "Linguagem de consulta e runtime para APIs que permite aos clientes solicitar os dados específicos de que necessitam."
+  },
+  {
+    "termo": "Webhook",
+    "categoria": "Web",
+    "definicao": "Mecanismo que permite a um sistema enviar automaticamente uma requisição HTTP para outro sistema quando ocorre determinado evento."
+  },
+  {
+    "termo": "CORS",
+    "categoria": "Web",
+    "definicao": "Mecanismo de segurança dos navegadores que controla requisições entre diferentes origens."
+  },
+  {
+    "termo": "SSL/TLS",
+    "categoria": "Segurança",
+    "definicao": "Tecnologias criptográficas utilizadas para proteger comunicações através de redes, incluindo a Web."
+  },
+  {
+    "termo": "Rate Limiting",
+    "categoria": "APIs",
+    "definicao": "Mecanismo que limita a quantidade de requisições que um cliente pode realizar num determinado período."
+  },
+  {
+    "termo": "Status Code",
+    "categoria": "HTTP",
+    "definicao": "Código numérico utilizado numa resposta HTTP para indicar o resultado de uma requisição."
+  },
+  {
+    "termo": "404",
+    "categoria": "HTTP",
+    "definicao": "Código HTTP que indica que o servidor não encontrou o recurso solicitado."
+  },
+  {
+    "termo": "200 OK",
+    "categoria": "HTTP",
+    "definicao": "Código HTTP que indica que uma requisição foi processada com sucesso."
+  },
+  {
+    "termo": "500 Internal Server Error",
+    "categoria": "HTTP",
+    "definicao": "Código HTTP que indica um erro interno inesperado no servidor."
+  },
+  {
+    "termo": "CRUD",
+    "categoria": "Bases de Dados",
+    "definicao": "Conjunto das quatro operações básicas de manipulação de dados: criar, ler, atualizar e eliminar."
+  },
+  {
+    "termo": "ORM",
+    "categoria": "Bases de Dados",
+    "definicao": "Técnica que permite trabalhar com dados relacionais através de objetos e abstrações da linguagem de programação."
+  },
+  {
+    "termo": "Migration",
+    "categoria": "Bases de Dados",
+    "definicao": "Mecanismo utilizado para controlar e aplicar alterações estruturais numa base de dados de forma organizada."
+  },
+  {
+    "termo": "ORM Model",
+    "categoria": "Desenvolvimento",
+    "definicao": "Representação de uma entidade da base de dados através de uma estrutura ou classe utilizada pelo ORM."
+  },
+  {
+    "termo": "Environment Variable",
+    "categoria": "Configuração",
+    "definicao": "Valor de configuração fornecido pelo ambiente de execução e utilizado por uma aplicação."
+  },
+  {
+    "termo": "Secret",
+    "categoria": "Segurança",
+    "definicao": "Informação confidencial, como uma senha ou chave de API, que deve ser protegida contra exposição."
+  },
+  {
+    "termo": "Dependency Injection",
+    "categoria": "Arquitetura",
+    "definicao": "Técnica em que as dependências de um componente são fornecidas externamente em vez de serem criadas diretamente por ele."
+  },
+  {
+    "termo": "Design Pattern",
+    "categoria": "Engenharia de Software",
+    "definicao": "Solução reutilizável e conhecida para um problema recorrente de projeto de software."
+  },
+  {
+    "termo": "Singleton",
+    "categoria": "Design Patterns",
+    "definicao": "Padrão que restringe uma classe a possuir uma única instância acessível dentro de determinado contexto."
+  },
+  {
+    "termo": "MVC",
+    "categoria": "Arquitetura",
+    "definicao": "Padrão arquitetural que separa uma aplicação em Model, View e Controller."
+  },
+  {
+    "termo": "Event-Driven",
+    "categoria": "Arquitetura",
+    "definicao": "Modelo em que o comportamento do sistema é desencadeado por eventos."
+  },
+  {
+    "termo": "Event",
+    "categoria": "Programação",
+    "definicao": "Ocorrência ou sinal que pode provocar uma determinada ação num sistema."
+  },
+  {
+    "termo": "Callback",
+    "categoria": "Programação",
+    "definicao": "Função fornecida a outra função para ser executada posteriormente quando determinada operação ou evento ocorrer."
+  },
+  {
+    "termo": "Promise",
+    "categoria": "JavaScript",
+    "definicao": "Objeto utilizado para representar o resultado futuro de uma operação assíncrona."
+  },
+  {
+    "termo": "Async/Await",
+    "categoria": "Programação Assíncrona",
+    "definicao": "Sintaxe utilizada em várias linguagens para escrever e controlar operações assíncronas de forma mais legível."
+  },
+  {
+    "termo": "Thread Pool",
+    "categoria": "Concorrência",
+    "definicao": "Conjunto de threads previamente criadas que podem ser reutilizadas para executar tarefas."
+  },
+  {
+    "termo": "Race Condition",
+    "categoria": "Concorrência",
+    "definicao": "Problema que ocorre quando o resultado depende da ordem ou do momento em que múltiplas tarefas acessam recursos partilhados."
+  },
+  {
+    "termo": "Deadlock",
+    "categoria": "Concorrência",
+    "definicao": "Situação em que dois ou mais processos ou threads ficam bloqueados à espera de recursos uns dos outros."
+  },
+  {
+    "termo": "Mutex",
+    "categoria": "Concorrência",
+    "definicao": "Mecanismo de sincronização utilizado para garantir que apenas uma thread acede a determinada região crítica de cada vez."
+  },
+  {
+    "termo": "Semaphore",
+    "categoria": "Concorrência",
+    "definicao": "Mecanismo de sincronização utilizado para controlar o acesso concorrente a recursos limitados."
+  },
+  {
+    "termo": "Garbage Collector",
+    "categoria": "Memória",
+    "definicao": "Componente responsável por identificar e libertar automaticamente memória que já não está a ser utilizada."
+  },
+  {
+    "termo": "Garbage Collection",
+    "categoria": "Memória",
+    "definicao": "Processo automático de recuperação de memória ocupada por objetos que já não podem ser utilizados."
+  },
+  {
+    "termo": "Runtime",
+    "categoria": "Programação",
+    "definicao": "Ambiente e período durante o qual um programa está a ser executado."
+  },
+  {
+    "termo": "Compile Time",
+    "categoria": "Programação",
+    "definicao": "Momento em que o código-fonte é processado pelo compilador antes da execução do programa."
+  },
+  {
+    "termo": "Syntax",
+    "categoria": "Linguagens",
+    "definicao": "Conjunto de regras que determina como as instruções devem ser escritas numa linguagem de programação."
+  },
+  {
+    "termo": "Semantics",
+    "categoria": "Linguagens",
+    "definicao": "Significado e comportamento associado às construções de uma linguagem de programação."
+  },
+  {
+    "termo": "Parser",
+    "categoria": "Compiladores",
+    "definicao": "Componente que analisa a estrutura de uma sequência de entrada de acordo com as regras de uma linguagem."
+  },
+  {
+    "termo": "AST",
+    "categoria": "Compiladores",
+    "definicao": "Árvore Sintática Abstrata que representa a estrutura lógica de um código-fonte."
+  },
+  {
+    "termo": "Lexer",
+    "categoria": "Compiladores",
+    "definicao": "Componente que transforma uma sequência de caracteres em unidades léxicas chamadas tokens."
+  },
+  {
+    "termo": "Token (Compilador)",
+    "categoria": "Compiladores",
+    "definicao": "Unidade significativa produzida durante a análise léxica de um código-fonte."
+  },
+  {
+    "termo": "Makefile",
+    "categoria": "C",
+    "definicao": "Arquivo utilizado pela ferramenta Make para definir regras de compilação e dependências de um projeto."
+  },
+  {
+    "termo": "Make",
+    "categoria": "C",
+    "definicao": "Ferramenta de automação utilizada para compilar projetos e executar tarefas com base em regras e dependências."
+  },
+  {
+    "termo": "Header File",
+    "categoria": "C",
+    "definicao": "Arquivo, normalmente com extensão .h, que contém declarações, protótipos, macros e outros elementos reutilizáveis."
+  },
+  {
+    "termo": "Preprocessor",
+    "categoria": "C",
+    "definicao": "Etapa que processa diretivas como #include e #define antes da compilação do código C."
+  },
+  {
+    "termo": "Macro",
+    "categoria": "C",
+    "definicao": "Construção definida pelo pré-processador que permite substituir ou expandir trechos de código antes da compilação."
+  },
+  {
+    "termo": "STDIN",
+    "categoria": "Unix",
+    "definicao": "Fluxo padrão de entrada utilizado por um processo para receber dados."
+  },
+  {
+    "termo": "STDOUT",
+    "categoria": "Unix",
+    "definicao": "Fluxo padrão utilizado por um processo para enviar saída normal."
+  },
+  {
+    "termo": "STDERR",
+    "categoria": "Unix",
+    "definicao": "Fluxo padrão utilizado para enviar mensagens de erro ou diagnóstico."
+  },
+  {
+    "termo": "Exit Code",
+    "categoria": "Sistemas",
+    "definicao": "Valor numérico devolvido por um processo ao terminar, utilizado para indicar o resultado da execução."
+  },
+  {
+    "termo": "Environment",
+    "categoria": "Sistemas",
+    "definicao": "Conjunto de configurações, variáveis e recursos disponíveis para um programa durante a execução."
+  },
+  {
+    "termo": "Package Manager",
+    "categoria": "Ferramentas",
+    "definicao": "Ferramenta responsável por instalar, atualizar, remover e gerir pacotes e respetivas dependências."
+  },
+  {
+    "termo": "Artifact",
+    "categoria": "DevOps",
+    "definicao": "Ficheiro ou conjunto de ficheiros produzido durante um processo de desenvolvimento ou construção de software."
+  },
+  {
+    "termo": "Monitoring",
+    "categoria": "DevOps",
+    "definicao": "Processo de acompanhar métricas, logs e comportamento de sistemas para identificar problemas e avaliar o seu estado."
+  },
+  {
+    "termo": "Logging",
+    "categoria": "DevOps",
+    "definicao": "Prática de registar informações sobre o funcionamento de uma aplicação ou sistema."
+  },
+  {
+    "termo": "Log",
+    "categoria": "Programação",
+    "definicao": "Registo de eventos ou informações produzidas por uma aplicação ou sistema durante a sua execução."
+  },
+  {
+    "termo": "Observability",
+    "categoria": "DevOps",
+    "definicao": "Capacidade de compreender o estado interno de um sistema através dos dados que ele produz, como logs, métricas e traces."
+  },
+  {
+    "termo": "Metric",
+    "categoria": "DevOps",
+    "definicao": "Valor quantitativo utilizado para acompanhar o comportamento, desempenho ou estado de um sistema."
+  },
+  {
+    "termo": "API Gateway",
+    "categoria": "Arquitetura",
+    "definicao": "Componente que atua como ponto de entrada para APIs e pode realizar funções como roteamento, autenticação e controlo de tráfego."
+  },
+  {
+    "termo": "Reverse Proxy",
+    "categoria": "Redes",
+    "definicao": "Servidor que recebe requisições dos clientes e as encaminha para um ou mais servidores internos."
+  },
+  {
+    "termo": "Proxy",
+    "categoria": "Redes",
+    "definicao": "Intermediário que recebe e encaminha requisições entre um cliente e outro serviço."
+  },
+  {
+    "termo": "CDN",
+    "categoria": "Web",
+    "definicao": "Rede distribuída de servidores utilizada para entregar conteúdos aos utilizadores a partir de locais geograficamente próximos."
+  },
+  {
+    "termo": "DNS Record",
+    "categoria": "Redes",
+    "definicao": "Entrada numa zona DNS que associa um nome de domínio a determinado tipo de informação de rede."
+  },
+  {
+    "termo": "Domain",
+    "categoria": "Web",
+    "definicao": "Nome legível utilizado para identificar um endereço ou serviço na Internet."
+  },
+  {
+    "termo": "Subdomain",
+    "categoria": "Web",
+    "definicao": "Domínio subordinado a outro domínio, utilizado normalmente para organizar diferentes serviços ou áreas de um site."
+  },
+  {
+    "termo": "Responsive Design",
+    "categoria": "Web",
+    "definicao": "Abordagem de desenvolvimento que adapta a interface de uma aplicação a diferentes tamanhos e tipos de ecrã."
+  },
+  {
+    "termo": "Accessibility",
+    "categoria": "Web",
+    "definicao": "Prática de desenvolver sistemas e interfaces que possam ser utilizados por pessoas com diferentes capacidades e necessidades."
+  },
+  {
+    "termo": "SEO",
+    "categoria": "Web",
+    "definicao": "Conjunto de técnicas destinadas a melhorar a visibilidade de páginas web nos resultados de motores de pesquisa."
+  }
+]
