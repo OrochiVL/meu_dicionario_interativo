@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dicionário do Programador</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <header>
+    <h1>&lt;/&gt; Dicionário do Programador</h1>
+<p class="subtitle" id="subtitle">Porque a teoria é que faz a prática!</p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <input id="search" type="text" placeholder="Pesquisar termo ou definição..." autofocus>
+      <button id="random-btn">🎲 Aleatório</button> 
+    </div>
+
+    <div class="categories" id="categories">
+      <button class="cat-btn active" data-cat="">Todos</button>
+      {% for cat in categorias %}
+      <button class="cat-btn" data-cat="{{ cat }}">{{ cat }}</button>
+      {% endfor %}
+    </div>
+
+    <p id="count" class="count"></p>
+    <div id="results" class="results"></div>
+    <p id="empty" class="empty" style="display:none;">Nenhum termo encontrado 🤔</p>
+  </main>
+
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <button id="modal-close" class="modal-close">&times;</button>
+      <span class="modal-cat" id="modal-cat"></span>
+      <h2 id="modal-term"></h2>
+      <p id="modal-def"></p>
+    </div>
+  </div>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
