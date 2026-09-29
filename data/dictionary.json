@@ -2,1591 +2,2227 @@
   {
     "termo": "API",
     "categoria": "Web",
-    "definicao": "Interface de Programação de Aplicações. Conjunto de regras que permite que dois sistemas de software comuniquem entre si."
+    "definicao": "Interface de Programação de Aplicações. Conjunto de regras que permite que dois sistemas de software comuniquem entre si.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=API+explicado"
   },
   {
     "termo": "Array",
     "categoria": "Estruturas de Dados",
-    "definicao": "Coleção ordenada de elementos, geralmente do mesmo tipo, acedidos por um índice."
+    "definicao": "Coleção ordenada de elementos, geralmente do mesmo tipo, acedidos por um índice.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Array+explicado"
   },
   {
     "termo": "Algoritmo",
     "categoria": "Fundamentos",
-    "definicao": "Sequência finita e ordenada de instruções usada para resolver um problema ou executar uma tarefa."
+    "definicao": "Sequência finita e ordenada de instruções usada para resolver um problema ou executar uma tarefa.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Algoritmo+explicado"
   },
   {
     "termo": "Variável",
     "categoria": "Fundamentos",
-    "definicao": "Espaço nomeado na memória utilizado para armazenar um valor que pode ser consultado ou alterado durante a execução."
+    "definicao": "Espaço nomeado na memória utilizado para armazenar um valor que pode ser consultado ou alterado durante a execução.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Variável+explicado"
   },
   {
     "termo": "Constante",
     "categoria": "Fundamentos",
-    "definicao": "Valor definido para permanecer inalterado durante determinada execução ou contexto de um programa."
+    "definicao": "Valor definido para permanecer inalterado durante determinada execução ou contexto de um programa.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Constante+explicado"
   },
   {
     "termo": "Função",
     "categoria": "Programação",
-    "definicao": "Bloco de código reutilizável criado para executar uma tarefa específica, podendo receber parâmetros e retornar um resultado."
+    "definicao": "Bloco de código reutilizável criado para executar uma tarefa específica, podendo receber parâmetros e retornar um resultado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Função+explicado"
   },
   {
     "termo": "Parâmetro",
     "categoria": "Programação",
-    "definicao": "Variável declarada na definição de uma função para receber um valor fornecido durante a chamada."
+    "definicao": "Variável declarada na definição de uma função para receber um valor fornecido durante a chamada.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Parâmetro+explicado"
   },
   {
     "termo": "Argumento",
     "categoria": "Programação",
-    "definicao": "Valor efetivamente fornecido a uma função quando ela é chamada."
+    "definicao": "Valor efetivamente fornecido a uma função quando ela é chamada.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Argumento+explicado"
   },
   {
     "termo": "Loop",
     "categoria": "Controle de Fluxo",
-    "definicao": "Estrutura que permite repetir um conjunto de instruções enquanto uma condição for satisfeita ou durante determinado número de vezes."
+    "definicao": "Estrutura que permite repetir um conjunto de instruções enquanto uma condição for satisfeita ou durante determinado número de vezes.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Loop+explicado"
   },
   {
     "termo": "For",
     "categoria": "Controle de Fluxo",
-    "definicao": "Estrutura de repetição normalmente utilizada quando se conhece ou controla a quantidade de iterações."
+    "definicao": "Estrutura de repetição normalmente utilizada quando se conhece ou controla a quantidade de iterações.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=For+explicado"
   },
   {
     "termo": "While",
     "categoria": "Controle de Fluxo",
-    "definicao": "Estrutura de repetição que executa um bloco de código enquanto uma condição for verdadeira."
+    "definicao": "Estrutura de repetição que executa um bloco de código enquanto uma condição for verdadeira.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=While+explicado"
   },
   {
     "termo": "Do While",
     "categoria": "Controle de Fluxo",
-    "definicao": "Estrutura de repetição que executa o bloco pelo menos uma vez e depois continua enquanto uma condição for verdadeira."
+    "definicao": "Estrutura de repetição que executa o bloco pelo menos uma vez e depois continua enquanto uma condição for verdadeira.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Do+While+explicado"
   },
   {
     "termo": "If",
     "categoria": "Controle de Fluxo",
-    "definicao": "Estrutura condicional utilizada para executar código apenas quando uma determinada condição é verdadeira."
+    "definicao": "Estrutura condicional utilizada para executar código apenas quando uma determinada condição é verdadeira.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=If+explicado"
   },
   {
     "termo": "Else",
     "categoria": "Controle de Fluxo",
-    "definicao": "Bloco executado quando a condição associada a uma estrutura if não é satisfeita."
+    "definicao": "Bloco executado quando a condição associada a uma estrutura if não é satisfeita.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Else+explicado"
   },
   {
     "termo": "Switch",
     "categoria": "Controle de Fluxo",
-    "definicao": "Estrutura de seleção utilizada para executar diferentes blocos de código com base no valor de uma expressão."
+    "definicao": "Estrutura de seleção utilizada para executar diferentes blocos de código com base no valor de uma expressão.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Switch+explicado"
   },
   {
     "termo": "Recursão",
     "categoria": "Algoritmos",
-    "definicao": "Técnica em que uma função chama a si própria para resolver versões menores de um problema."
+    "definicao": "Técnica em que uma função chama a si própria para resolver versões menores de um problema.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Recursão+explicado"
   },
   {
     "termo": "Ponteiro",
     "categoria": "C",
-    "definicao": "Variável que armazena o endereço de memória de outro objeto ou variável."
+    "definicao": "Variável que armazena o endereço de memória de outro objeto ou variável.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Ponteiro+explicado"
   },
   {
     "termo": "Referência",
     "categoria": "Programação",
-    "definicao": "Forma de acessar ou representar outro objeto ou valor sem necessariamente criar uma nova cópia dele."
+    "definicao": "Forma de acessar ou representar outro objeto ou valor sem necessariamente criar uma nova cópia dele.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Referência+explicado"
   },
   {
     "termo": "Memória",
     "categoria": "Computação",
-    "definicao": "Recurso utilizado pelo computador para armazenar temporariamente ou permanentemente dados e instruções."
+    "definicao": "Recurso utilizado pelo computador para armazenar temporariamente ou permanentemente dados e instruções.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Memória+explicado"
   },
   {
     "termo": "Stack",
     "categoria": "Memória",
-    "definicao": "Região de memória usada principalmente para armazenar chamadas de funções, variáveis locais e informações temporárias."
+    "definicao": "Região de memória usada principalmente para armazenar chamadas de funções, variáveis locais e informações temporárias.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Stack+explicado"
   },
   {
     "termo": "Heap",
     "categoria": "Memória",
-    "definicao": "Área de memória utilizada para alocação dinâmica de dados durante a execução de um programa."
+    "definicao": "Área de memória utilizada para alocação dinâmica de dados durante a execução de um programa.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Heap+explicado"
   },
   {
     "termo": "Alocação Dinâmica",
     "categoria": "Memória",
-    "definicao": "Processo de reservar memória durante a execução do programa, em vez de determinar todo o espaço antecipadamente."
+    "definicao": "Processo de reservar memória durante a execução do programa, em vez de determinar todo o espaço antecipadamente.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Alocação+Dinâmica+explicado"
   },
   {
     "termo": "Malloc",
     "categoria": "C",
-    "definicao": "Função da linguagem C utilizada para reservar dinamicamente uma quantidade especificada de memória."
+    "definicao": "Função da linguagem C utilizada para reservar dinamicamente uma quantidade especificada de memória.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Malloc+explicado"
   },
   {
     "termo": "Calloc",
     "categoria": "C",
-    "definicao": "Função da linguagem C que reserva memória para vários elementos e inicializa os bytes alocados com zero."
+    "definicao": "Função da linguagem C que reserva memória para vários elementos e inicializa os bytes alocados com zero.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Calloc+explicado"
   },
   {
     "termo": "Realloc",
     "categoria": "C",
-    "definicao": "Função usada para redimensionar um bloco de memória previamente alocado dinamicamente."
+    "definicao": "Função usada para redimensionar um bloco de memória previamente alocado dinamicamente.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Realloc+explicado"
   },
   {
     "termo": "Free",
     "categoria": "C",
-    "definicao": "Função utilizada para libertar memória que foi previamente alocada dinamicamente."
+    "definicao": "Função utilizada para libertar memória que foi previamente alocada dinamicamente.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Free+explicado"
   },
   {
     "termo": "Struct",
     "categoria": "C",
-    "definicao": "Tipo de dados que permite agrupar diferentes variáveis, possivelmente de tipos distintos, numa única estrutura."
+    "definicao": "Tipo de dados que permite agrupar diferentes variáveis, possivelmente de tipos distintos, numa única estrutura.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Struct+explicado"
   },
   {
     "termo": "String",
     "categoria": "Dados",
-    "definicao": "Sequência de caracteres usada para representar texto."
+    "definicao": "Sequência de caracteres usada para representar texto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=String+explicado"
   },
   {
     "termo": "Char",
     "categoria": "C",
-    "definicao": "Tipo de dado utilizado para armazenar um único caractere."
+    "definicao": "Tipo de dado utilizado para armazenar um único caractere.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Char+explicado"
   },
   {
     "termo": "Integer",
     "categoria": "Tipos de Dados",
-    "definicao": "Tipo de dado utilizado para representar números inteiros."
+    "definicao": "Tipo de dado utilizado para representar números inteiros.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Integer+explicado"
   },
   {
     "termo": "Float",
     "categoria": "Tipos de Dados",
-    "definicao": "Tipo numérico utilizado para representar valores com casas decimais."
+    "definicao": "Tipo numérico utilizado para representar valores com casas decimais.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Float+explicado"
   },
   {
     "termo": "Boolean",
     "categoria": "Tipos de Dados",
-    "definicao": "Tipo lógico que representa normalmente dois estados: verdadeiro ou falso."
+    "definicao": "Tipo lógico que representa normalmente dois estados: verdadeiro ou falso.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Boolean+explicado"
   },
   {
     "termo": "Casting",
     "categoria": "Programação",
-    "definicao": "Conversão explícita de um valor de um tipo de dado para outro tipo compatível."
+    "definicao": "Conversão explícita de um valor de um tipo de dado para outro tipo compatível.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Casting+explicado"
   },
   {
     "termo": "Compilador",
     "categoria": "Ferramentas",
-    "definicao": "Programa que transforma código-fonte de uma linguagem de programação em código executável ou outra forma de código."
+    "definicao": "Programa que transforma código-fonte de uma linguagem de programação em código executável ou outra forma de código.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Compilador+explicado"
   },
   {
     "termo": "Interpretador",
     "categoria": "Ferramentas",
-    "definicao": "Programa que executa código-fonte através de interpretação, normalmente sem produzir previamente um executável nativo completo."
+    "definicao": "Programa que executa código-fonte através de interpretação, normalmente sem produzir previamente um executável nativo completo.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Interpretador+explicado"
   },
   {
     "termo": "Código-Fonte",
     "categoria": "Programação",
-    "definicao": "Conjunto de instruções escritas por programadores numa linguagem de programação."
+    "definicao": "Conjunto de instruções escritas por programadores numa linguagem de programação.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Código-Fonte+explicado"
   },
   {
     "termo": "Executável",
     "categoria": "Sistemas",
-    "definicao": "Arquivo contendo código que pode ser executado diretamente por um sistema compatível."
+    "definicao": "Arquivo contendo código que pode ser executado diretamente por um sistema compatível.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Executável+explicado"
   },
   {
     "termo": "Bug",
     "categoria": "Programação",
-    "definicao": "Erro ou comportamento inesperado num programa que faz com que ele não funcione como pretendido."
+    "definicao": "Erro ou comportamento inesperado num programa que faz com que ele não funcione como pretendido.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Bug+explicado"
   },
   {
     "termo": "Debug",
     "categoria": "Programação",
-    "definicao": "Processo de encontrar, analisar e corrigir erros num programa."
+    "definicao": "Processo de encontrar, analisar e corrigir erros num programa.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Debug+explicado"
   },
   {
     "termo": "Debugger",
     "categoria": "Ferramentas",
-    "definicao": "Ferramenta que permite executar um programa de forma controlada para investigar seu comportamento e localizar erros."
+    "definicao": "Ferramenta que permite executar um programa de forma controlada para investigar seu comportamento e localizar erros.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Debugger+explicado"
   },
   {
     "termo": "Breakpoint",
     "categoria": "Debug",
-    "definicao": "Ponto definido no código onde a execução pode ser temporariamente interrompida durante uma sessão de depuração."
+    "definicao": "Ponto definido no código onde a execução pode ser temporariamente interrompida durante uma sessão de depuração.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Breakpoint+explicado"
   },
   {
     "termo": "IDE",
     "categoria": "Ferramentas",
-    "definicao": "Ambiente Integrado de Desenvolvimento que reúne recursos como editor de código, compilador, debugger e outras ferramentas."
+    "definicao": "Ambiente Integrado de Desenvolvimento que reúne recursos como editor de código, compilador, debugger e outras ferramentas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=IDE+explicado"
   },
   {
     "termo": "Terminal",
     "categoria": "Sistemas",
-    "definicao": "Interface através da qual o utilizador pode executar comandos e interagir com o sistema operativo."
+    "definicao": "Interface através da qual o utilizador pode executar comandos e interagir com o sistema operativo.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Terminal+explicado"
   },
   {
     "termo": "Shell",
     "categoria": "Sistemas",
-    "definicao": "Programa que interpreta comandos fornecidos pelo utilizador e permite interagir com o sistema operativo."
+    "definicao": "Programa que interpreta comandos fornecidos pelo utilizador e permite interagir com o sistema operativo.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Shell+explicado"
   },
   {
     "termo": "Bash",
     "categoria": "Linux",
-    "definicao": "Shell amplamente utilizado em sistemas Unix e Linux para executar comandos e scripts."
+    "definicao": "Shell amplamente utilizado em sistemas Unix e Linux para executar comandos e scripts.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Bash+explicado"
   },
   {
     "termo": "Linux",
     "categoria": "Sistemas Operativos",
-    "definicao": "Família de sistemas operativos baseados no kernel Linux e amplamente utilizada em servidores, desenvolvimento e infraestrutura."
+    "definicao": "Família de sistemas operativos baseados no kernel Linux e amplamente utilizada em servidores, desenvolvimento e infraestrutura.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Linux+explicado"
   },
   {
     "termo": "Kernel",
     "categoria": "Sistemas Operativos",
-    "definicao": "Componente central de um sistema operativo responsável por gerir recursos como CPU, memória e dispositivos."
+    "definicao": "Componente central de um sistema operativo responsável por gerir recursos como CPU, memória e dispositivos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Kernel+explicado"
   },
   {
     "termo": "Processo",
     "categoria": "Sistemas",
-    "definicao": "Instância de um programa em execução, com recursos e espaço de memória associados."
+    "definicao": "Instância de um programa em execução, com recursos e espaço de memória associados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Processo+explicado"
   },
   {
     "termo": "Thread",
     "categoria": "Sistemas",
-    "definicao": "Unidade de execução dentro de um processo que pode executar tarefas concorrentemente com outras threads."
+    "definicao": "Unidade de execução dentro de um processo que pode executar tarefas concorrentemente com outras threads.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Thread+explicado"
   },
   {
     "termo": "Concorrência",
     "categoria": "Programação",
-    "definicao": "Capacidade de estruturar um programa para lidar com múltiplas tarefas em progresso durante o mesmo período."
+    "definicao": "Capacidade de estruturar um programa para lidar com múltiplas tarefas em progresso durante o mesmo período.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Concorrência+explicado"
   },
   {
     "termo": "Paralelismo",
     "categoria": "Computação",
-    "definicao": "Execução simultânea de múltiplas tarefas, geralmente utilizando diferentes núcleos ou unidades de processamento."
+    "definicao": "Execução simultânea de múltiplas tarefas, geralmente utilizando diferentes núcleos ou unidades de processamento.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Paralelismo+explicado"
   },
   {
     "termo": "Git",
     "categoria": "Controle de Versão",
-    "definicao": "Sistema distribuído de controle de versões utilizado para acompanhar alterações em projetos de software."
+    "definicao": "Sistema distribuído de controle de versões utilizado para acompanhar alterações em projetos de software.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Git+explicado"
   },
   {
     "termo": "GitHub",
     "categoria": "Desenvolvimento",
-    "definicao": "Plataforma de hospedagem e colaboração para projetos de software, amplamente utilizada em conjunto com Git."
+    "definicao": "Plataforma de hospedagem e colaboração para projetos de software, amplamente utilizada em conjunto com Git.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=GitHub+explicado"
   },
   {
     "termo": "Repository",
     "categoria": "Git",
-    "definicao": "Local onde os arquivos e o histórico de versões de um projeto controlado pelo Git são armazenados."
+    "definicao": "Local onde os arquivos e o histórico de versões de um projeto controlado pelo Git são armazenados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Repository+explicado"
   },
   {
     "termo": "Commit",
     "categoria": "Git",
-    "definicao": "Registo no histórico do Git que representa um conjunto de alterações guardadas no projeto."
+    "definicao": "Registo no histórico do Git que representa um conjunto de alterações guardadas no projeto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Commit+explicado"
   },
   {
     "termo": "Branch",
     "categoria": "Git",
-    "definicao": "Linha independente de desenvolvimento dentro de um repositório Git."
+    "definicao": "Linha independente de desenvolvimento dentro de um repositório Git.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Branch+explicado"
   },
   {
     "termo": "Merge",
     "categoria": "Git",
-    "definicao": "Operação que combina alterações de uma branch com outra."
+    "definicao": "Operação que combina alterações de uma branch com outra.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Merge+explicado"
   },
   {
     "termo": "Clone",
     "categoria": "Git",
-    "definicao": "Operação que cria uma cópia local de um repositório remoto."
+    "definicao": "Operação que cria uma cópia local de um repositório remoto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Clone+explicado"
   },
   {
     "termo": "Push",
     "categoria": "Git",
-    "definicao": "Operação que envia commits de um repositório local para um repositório remoto."
+    "definicao": "Operação que envia commits de um repositório local para um repositório remoto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Push+explicado"
   },
   {
     "termo": "Pull",
     "categoria": "Git",
-    "definicao": "Operação que obtém alterações de um repositório remoto e as integra no repositório local."
+    "definicao": "Operação que obtém alterações de um repositório remoto e as integra no repositório local.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Pull+explicado"
   },
   {
     "termo": "Fetch",
     "categoria": "Git",
-    "definicao": "Operação que obtém informações e alterações do repositório remoto sem necessariamente integrá-las na branch atual."
+    "definicao": "Operação que obtém informações e alterações do repositório remoto sem necessariamente integrá-las na branch atual.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Fetch+explicado"
   },
   {
     "termo": "Pull Request",
     "categoria": "GitHub",
-    "definicao": "Proposta para integrar alterações de uma branch noutra, permitindo revisão e discussão antes da integração."
+    "definicao": "Proposta para integrar alterações de uma branch noutra, permitindo revisão e discussão antes da integração.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Pull+Request+explicado"
   },
   {
     "termo": "Merge Conflict",
     "categoria": "Git",
-    "definicao": "Situação em que o Git não consegue determinar automaticamente como combinar alterações incompatíveis."
+    "definicao": "Situação em que o Git não consegue determinar automaticamente como combinar alterações incompatíveis.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Merge+Conflict+explicado"
   },
   {
     "termo": "Gitignore",
     "categoria": "Git",
-    "definicao": "Arquivo que especifica ficheiros e diretórios que devem ser ignorados pelo Git."
+    "definicao": "Arquivo que especifica ficheiros e diretórios que devem ser ignorados pelo Git.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Gitignore+explicado"
   },
   {
     "termo": "HTML",
     "categoria": "Web",
-    "definicao": "Linguagem de marcação utilizada para estruturar o conteúdo de páginas web."
+    "definicao": "Linguagem de marcação utilizada para estruturar o conteúdo de páginas web.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=HTML+explicado"
   },
   {
     "termo": "CSS",
     "categoria": "Web",
-    "definicao": "Linguagem utilizada para definir a apresentação visual e o layout de documentos web."
+    "definicao": "Linguagem utilizada para definir a apresentação visual e o layout de documentos web.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=CSS+explicado"
   },
   {
     "termo": "JavaScript",
     "categoria": "Web",
-    "definicao": "Linguagem de programação amplamente utilizada para adicionar comportamento e interatividade a páginas e aplicações."
+    "definicao": "Linguagem de programação amplamente utilizada para adicionar comportamento e interatividade a páginas e aplicações.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=JavaScript+explicado"
   },
   {
     "termo": "DOM",
     "categoria": "Web",
-    "definicao": "Modelo em árvore que representa a estrutura de um documento HTML ou XML e permite manipulá-lo através de código."
+    "definicao": "Modelo em árvore que representa a estrutura de um documento HTML ou XML e permite manipulá-lo através de código.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=DOM+explicado"
   },
   {
     "termo": "Frontend",
     "categoria": "Web",
-    "definicao": "Parte de uma aplicação web que é executada no lado do utilizador e com a qual ele interage diretamente."
+    "definicao": "Parte de uma aplicação web que é executada no lado do utilizador e com a qual ele interage diretamente.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Frontend+explicado"
   },
   {
     "termo": "Backend",
     "categoria": "Web",
-    "definicao": "Parte de uma aplicação responsável pelo processamento, regras de negócio, acesso a dados e serviços no servidor."
+    "definicao": "Parte de uma aplicação responsável pelo processamento, regras de negócio, acesso a dados e serviços no servidor.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Backend+explicado"
   },
   {
     "termo": "Full Stack",
     "categoria": "Web",
-    "definicao": "Abordagem de desenvolvimento que envolve tanto tecnologias de frontend como de backend."
+    "definicao": "Abordagem de desenvolvimento que envolve tanto tecnologias de frontend como de backend.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Full+Stack+explicado"
   },
   {
     "termo": "HTTP",
     "categoria": "Web",
-    "definicao": "Protocolo utilizado para comunicação entre clientes e servidores na Web."
+    "definicao": "Protocolo utilizado para comunicação entre clientes e servidores na Web.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=HTTP+explicado"
   },
   {
     "termo": "HTTPS",
     "categoria": "Web",
-    "definicao": "Versão do HTTP protegida por TLS, utilizada para cifrar a comunicação entre cliente e servidor."
+    "definicao": "Versão do HTTP protegida por TLS, utilizada para cifrar a comunicação entre cliente e servidor.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=HTTPS+explicado"
   },
   {
     "termo": "URL",
     "categoria": "Web",
-    "definicao": "Endereço utilizado para localizar um recurso na Internet."
+    "definicao": "Endereço utilizado para localizar um recurso na Internet.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=URL+explicado"
   },
   {
     "termo": "DNS",
     "categoria": "Redes",
-    "definicao": "Sistema que traduz nomes de domínio, como exemplo.com, para endereços IP."
+    "definicao": "Sistema que traduz nomes de domínio, como exemplo.com, para endereços IP.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=DNS+explicado"
   },
   {
     "termo": "IP",
     "categoria": "Redes",
-    "definicao": "Endereço utilizado para identificar uma interface ou dispositivo numa rede que utiliza o protocolo IP."
+    "definicao": "Endereço utilizado para identificar uma interface ou dispositivo numa rede que utiliza o protocolo IP.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=IP+explicado"
   },
   {
     "termo": "TCP",
     "categoria": "Redes",
-    "definicao": "Protocolo de transporte orientado à conexão que fornece entrega ordenada e confiável de dados."
+    "definicao": "Protocolo de transporte orientado à conexão que fornece entrega ordenada e confiável de dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=TCP+explicado"
   },
   {
     "termo": "UDP",
     "categoria": "Redes",
-    "definicao": "Protocolo de transporte simples e sem conexão que prioriza baixa sobrecarga e velocidade."
+    "definicao": "Protocolo de transporte simples e sem conexão que prioriza baixa sobrecarga e velocidade.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=UDP+explicado"
   },
   {
     "termo": "JSON",
     "categoria": "Dados",
-    "definicao": "Formato textual utilizado para representar e trocar dados estruturados."
+    "definicao": "Formato textual utilizado para representar e trocar dados estruturados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=JSON+explicado"
   },
   {
     "termo": "XML",
     "categoria": "Dados",
-    "definicao": "Linguagem de marcação utilizada para representar dados estruturados de forma hierárquica."
+    "definicao": "Linguagem de marcação utilizada para representar dados estruturados de forma hierárquica.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=XML+explicado"
   },
   {
     "termo": "REST",
     "categoria": "APIs",
-    "definicao": "Estilo arquitetural utilizado para projetar serviços web baseados em recursos e operações HTTP."
+    "definicao": "Estilo arquitetural utilizado para projetar serviços web baseados em recursos e operações HTTP.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=REST+explicado"
   },
   {
     "termo": "Endpoint",
     "categoria": "APIs",
-    "definicao": "URL ou ponto específico de uma API através do qual um cliente pode solicitar ou enviar dados."
+    "definicao": "URL ou ponto específico de uma API através do qual um cliente pode solicitar ou enviar dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Endpoint+explicado"
   },
   {
     "termo": "Request",
     "categoria": "Web",
-    "definicao": "Pedido enviado por um cliente para solicitar uma operação ou recurso de um servidor."
+    "definicao": "Pedido enviado por um cliente para solicitar uma operação ou recurso de um servidor.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Request+explicado"
   },
   {
     "termo": "Response",
     "categoria": "Web",
-    "definicao": "Mensagem enviada pelo servidor em resposta a uma requisição do cliente."
+    "definicao": "Mensagem enviada pelo servidor em resposta a uma requisição do cliente.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Response+explicado"
   },
   {
     "termo": "Cookie",
     "categoria": "Web",
-    "definicao": "Pequeno conjunto de dados armazenado pelo navegador e associado a um determinado site."
+    "definicao": "Pequeno conjunto de dados armazenado pelo navegador e associado a um determinado site.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Cookie+explicado"
   },
   {
     "termo": "Session",
     "categoria": "Web",
-    "definicao": "Mecanismo utilizado para manter informações relacionadas à interação de um utilizador com uma aplicação."
+    "definicao": "Mecanismo utilizado para manter informações relacionadas à interação de um utilizador com uma aplicação.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Session+explicado"
   },
   {
     "termo": "Token (Autenticação)",
     "categoria": "Segurança",
-    "definicao": "Valor utilizado para representar ou autorizar uma identidade, sessão ou permissão."
+    "definicao": "Valor utilizado para representar ou autorizar uma identidade, sessão ou permissão.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Token+(Autenticação)+explicado"
   },
   {
     "termo": "JWT",
     "categoria": "Segurança",
-    "definicao": "Formato compacto de token utilizado para transmitir informações entre partes de forma verificável."
+    "definicao": "Formato compacto de token utilizado para transmitir informações entre partes de forma verificável.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=JWT+explicado"
   },
   {
     "termo": "Autenticação",
     "categoria": "Segurança",
-    "definicao": "Processo de verificar a identidade de um utilizador ou sistema."
+    "definicao": "Processo de verificar a identidade de um utilizador ou sistema.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Autenticação+explicado"
   },
   {
     "termo": "Autorização",
     "categoria": "Segurança",
-    "definicao": "Processo de determinar quais recursos ou operações uma identidade autenticada pode utilizar."
+    "definicao": "Processo de determinar quais recursos ou operações uma identidade autenticada pode utilizar.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Autorização+explicado"
   },
   {
     "termo": "Criptografia",
     "categoria": "Segurança",
-    "definicao": "Técnica de proteger informações através de transformações matemáticas que dificultam o acesso não autorizado."
+    "definicao": "Técnica de proteger informações através de transformações matemáticas que dificultam o acesso não autorizado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Criptografia+explicado"
   },
   {
     "termo": "Hash",
     "categoria": "Segurança",
-    "definicao": "Resultado de uma função que transforma dados de tamanho arbitrário num valor de tamanho determinado."
+    "definicao": "Resultado de uma função que transforma dados de tamanho arbitrário num valor de tamanho determinado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Hash+explicado"
   },
   {
     "termo": "SQL",
     "categoria": "Bases de Dados",
-    "definicao": "Linguagem utilizada para consultar, inserir, alterar e gerir dados em bases de dados relacionais."
+    "definicao": "Linguagem utilizada para consultar, inserir, alterar e gerir dados em bases de dados relacionais.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=SQL+explicado"
   },
   {
     "termo": "Database",
     "categoria": "Bases de Dados",
-    "definicao": "Sistema organizado para armazenar, gerir e consultar dados."
+    "definicao": "Sistema organizado para armazenar, gerir e consultar dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Database+explicado"
   },
   {
     "termo": "Tabela",
     "categoria": "Bases de Dados",
-    "definicao": "Estrutura de uma base de dados relacional formada por linhas e colunas."
+    "definicao": "Estrutura de uma base de dados relacional formada por linhas e colunas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Tabela+explicado"
   },
   {
     "termo": "Registo",
     "categoria": "Bases de Dados",
-    "definicao": "Linha de uma tabela que representa uma entidade ou conjunto específico de dados."
+    "definicao": "Linha de uma tabela que representa uma entidade ou conjunto específico de dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Registo+explicado"
   },
   {
     "termo": "Coluna",
     "categoria": "Bases de Dados",
-    "definicao": "Campo de uma tabela que representa um determinado atributo dos registos."
+    "definicao": "Campo de uma tabela que representa um determinado atributo dos registos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Coluna+explicado"
   },
   {
     "termo": "Primary Key",
     "categoria": "Bases de Dados",
-    "definicao": "Coluna ou conjunto de colunas utilizado para identificar exclusivamente cada registo de uma tabela."
+    "definicao": "Coluna ou conjunto de colunas utilizado para identificar exclusivamente cada registo de uma tabela.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Primary+Key+explicado"
   },
   {
     "termo": "Foreign Key",
     "categoria": "Bases de Dados",
-    "definicao": "Campo que estabelece uma relação entre uma tabela e uma chave de outra tabela."
+    "definicao": "Campo que estabelece uma relação entre uma tabela e uma chave de outra tabela.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Foreign+Key+explicado"
   },
   {
     "termo": "Query",
     "categoria": "Bases de Dados",
-    "definicao": "Consulta enviada a uma base de dados para obter ou manipular informações."
+    "definicao": "Consulta enviada a uma base de dados para obter ou manipular informações.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Query+explicado"
   },
   {
     "termo": "SELECT",
     "categoria": "SQL",
-    "definicao": "Comando SQL utilizado para consultar e recuperar dados de uma ou mais tabelas."
+    "definicao": "Comando SQL utilizado para consultar e recuperar dados de uma ou mais tabelas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=SELECT+explicado"
   },
   {
     "termo": "INSERT",
     "categoria": "SQL",
-    "definicao": "Comando SQL utilizado para adicionar novos registos a uma tabela."
+    "definicao": "Comando SQL utilizado para adicionar novos registos a uma tabela.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=INSERT+explicado"
   },
   {
     "termo": "UPDATE",
     "categoria": "SQL",
-    "definicao": "Comando SQL utilizado para alterar dados existentes numa tabela."
+    "definicao": "Comando SQL utilizado para alterar dados existentes numa tabela.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=UPDATE+explicado"
   },
   {
     "termo": "DELETE",
     "categoria": "SQL",
-    "definicao": "Comando SQL utilizado para remover registos de uma tabela."
+    "definicao": "Comando SQL utilizado para remover registos de uma tabela.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=DELETE+explicado"
   },
   {
     "termo": "JOIN",
     "categoria": "SQL",
-    "definicao": "Operação que combina dados de duas ou mais tabelas com base numa relação entre elas."
+    "definicao": "Operação que combina dados de duas ou mais tabelas com base numa relação entre elas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=JOIN+explicado"
   },
   {
     "termo": "Index",
     "categoria": "Bases de Dados",
-    "definicao": "Estrutura auxiliar criada para acelerar determinadas consultas numa base de dados."
+    "definicao": "Estrutura auxiliar criada para acelerar determinadas consultas numa base de dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Index+explicado"
   },
   {
     "termo": "Schema",
     "categoria": "Bases de Dados",
-    "definicao": "Estrutura ou definição que descreve a organização dos dados e objetos de uma base de dados."
+    "definicao": "Estrutura ou definição que descreve a organização dos dados e objetos de uma base de dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Schema+explicado"
   },
   {
     "termo": "Transação",
     "categoria": "Bases de Dados",
-    "definicao": "Conjunto de operações tratado como uma unidade lógica de trabalho."
+    "definicao": "Conjunto de operações tratado como uma unidade lógica de trabalho.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Transação+explicado"
   },
   {
     "termo": "ACID",
     "categoria": "Bases de Dados",
-    "definicao": "Conjunto de propriedades que asseguram atomicidade, consistência, isolamento e durabilidade nas transações."
+    "definicao": "Conjunto de propriedades que asseguram atomicidade, consistência, isolamento e durabilidade nas transações.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=ACID+explicado"
   },
   {
     "termo": "Normalização",
     "categoria": "Bases de Dados",
-    "definicao": "Processo de organizar dados em tabelas relacionadas para reduzir redundância e melhorar a consistência."
+    "definicao": "Processo de organizar dados em tabelas relacionadas para reduzir redundância e melhorar a consistência.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Normalização+explicado"
   },
   {
     "termo": "NoSQL",
     "categoria": "Bases de Dados",
-    "definicao": "Categoria de sistemas de bases de dados que não dependem exclusivamente do modelo relacional tradicional."
+    "definicao": "Categoria de sistemas de bases de dados que não dependem exclusivamente do modelo relacional tradicional.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=NoSQL+explicado"
   },
   {
     "termo": "MongoDB",
     "categoria": "Bases de Dados",
-    "definicao": "Sistema de base de dados NoSQL orientado a documentos."
+    "definicao": "Sistema de base de dados NoSQL orientado a documentos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=MongoDB+explicado"
   },
   {
     "termo": "PostgreSQL",
     "categoria": "Bases de Dados",
-    "definicao": "Sistema de gestão de bases de dados relacional e objeto-relacional de código aberto."
+    "definicao": "Sistema de gestão de bases de dados relacional e objeto-relacional de código aberto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=PostgreSQL+explicado"
   },
   {
     "termo": "MySQL",
     "categoria": "Bases de Dados",
-    "definicao": "Sistema de gestão de bases de dados relacionais amplamente utilizado em aplicações web."
+    "definicao": "Sistema de gestão de bases de dados relacionais amplamente utilizado em aplicações web.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=MySQL+explicado"
   },
   {
     "termo": "Python",
     "categoria": "Linguagens",
-    "definicao": "Linguagem de programação de alto nível conhecida pela sintaxe relativamente simples e ampla utilização em dados, web, automação e IA."
+    "definicao": "Linguagem de programação de alto nível conhecida pela sintaxe relativamente simples e ampla utilização em dados, web, automação e IA.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Python+explicado"
   },
   {
     "termo": "Pandas",
     "categoria": "Python",
-    "definicao": "Biblioteca Python utilizada principalmente para manipulação e análise de dados estruturados."
+    "definicao": "Biblioteca Python utilizada principalmente para manipulação e análise de dados estruturados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Pandas+explicado"
   },
   {
     "termo": "NumPy",
     "categoria": "Python",
-    "definicao": "Biblioteca Python especializada em computação numérica e operações eficientes com arrays multidimensionais."
+    "definicao": "Biblioteca Python especializada em computação numérica e operações eficientes com arrays multidimensionais.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=NumPy+explicado"
   },
   {
     "termo": "Matplotlib",
     "categoria": "Python",
-    "definicao": "Biblioteca Python utilizada para criar gráficos e visualizações de dados."
+    "definicao": "Biblioteca Python utilizada para criar gráficos e visualizações de dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Matplotlib+explicado"
   },
   {
     "termo": "PyPI",
     "categoria": "Python",
-    "definicao": "Repositório oficial de pacotes de software para a linguagem Python."
+    "definicao": "Repositório oficial de pacotes de software para a linguagem Python.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=PyPI+explicado"
   },
   {
     "termo": "Pip",
     "categoria": "Python",
-    "definicao": "Ferramenta utilizada para instalar e gerir pacotes Python."
+    "definicao": "Ferramenta utilizada para instalar e gerir pacotes Python.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Pip+explicado"
   },
   {
     "termo": "Virtual Environment",
     "categoria": "Python",
-    "definicao": "Ambiente isolado utilizado para instalar dependências Python específicas de um projeto."
+    "definicao": "Ambiente isolado utilizado para instalar dependências Python específicas de um projeto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Virtual+Environment+explicado"
   },
   {
     "termo": "List",
     "categoria": "Python",
-    "definicao": "Estrutura de dados Python mutável utilizada para armazenar uma sequência ordenada de elementos."
+    "definicao": "Estrutura de dados Python mutável utilizada para armazenar uma sequência ordenada de elementos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=List+explicado"
   },
   {
     "termo": "Tuple",
     "categoria": "Python",
-    "definicao": "Estrutura de dados Python ordenada e imutável que pode armazenar vários elementos."
+    "definicao": "Estrutura de dados Python ordenada e imutável que pode armazenar vários elementos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Tuple+explicado"
   },
   {
     "termo": "Dictionary",
     "categoria": "Python",
-    "definicao": "Estrutura Python que armazena pares de chave e valor."
+    "definicao": "Estrutura Python que armazena pares de chave e valor.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Dictionary+explicado"
   },
   {
     "termo": "Set",
     "categoria": "Python",
-    "definicao": "Coleção Python que armazena elementos únicos e não mantém uma ordem indexada tradicional."
+    "definicao": "Coleção Python que armazena elementos únicos e não mantém uma ordem indexada tradicional.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Set+explicado"
   },
   {
     "termo": "Lambda",
     "categoria": "Python",
-    "definicao": "Função anónima geralmente utilizada para expressões pequenas e operações simples."
+    "definicao": "Função anónima geralmente utilizada para expressões pequenas e operações simples.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Lambda+explicado"
   },
   {
     "termo": "List Comprehension",
     "categoria": "Python",
-    "definicao": "Sintaxe compacta do Python para criar listas a partir de iteráveis e condições."
+    "definicao": "Sintaxe compacta do Python para criar listas a partir de iteráveis e condições.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=List+Comprehension+explicado"
   },
   {
     "termo": "Exception",
     "categoria": "Programação",
-    "definicao": "Evento que representa uma condição anormal ou erro ocorrido durante a execução de um programa."
+    "definicao": "Evento que representa uma condição anormal ou erro ocorrido durante a execução de um programa.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Exception+explicado"
   },
   {
     "termo": "Try",
     "categoria": "Programação",
-    "definicao": "Bloco utilizado para envolver código que pode gerar uma exceção."
+    "definicao": "Bloco utilizado para envolver código que pode gerar uma exceção.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Try+explicado"
   },
   {
     "termo": "Catch",
     "categoria": "Programação",
-    "definicao": "Estrutura usada em algumas linguagens para capturar e tratar exceções lançadas durante a execução."
+    "definicao": "Estrutura usada em algumas linguagens para capturar e tratar exceções lançadas durante a execução.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Catch+explicado"
   },
   {
     "termo": "API Key",
     "categoria": "Segurança",
-    "definicao": "Credencial utilizada para identificar ou autorizar aplicações que acedem a determinados serviços de API."
+    "definicao": "Credencial utilizada para identificar ou autorizar aplicações que acedem a determinados serviços de API.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=API+Key+explicado"
   },
   {
     "termo": "Framework",
     "categoria": "Desenvolvimento",
-    "definicao": "Conjunto estruturado de ferramentas, bibliotecas e convenções que facilita o desenvolvimento de aplicações."
+    "definicao": "Conjunto estruturado de ferramentas, bibliotecas e convenções que facilita o desenvolvimento de aplicações.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Framework+explicado"
   },
   {
     "termo": "Biblioteca",
     "categoria": "Desenvolvimento",
-    "definicao": "Conjunto reutilizável de código que fornece funções ou recursos para serem utilizados por outros programas."
+    "definicao": "Conjunto reutilizável de código que fornece funções ou recursos para serem utilizados por outros programas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Biblioteca+explicado"
   },
   {
     "termo": "Package",
     "categoria": "Desenvolvimento",
-    "definicao": "Conjunto distribuível de código e recursos que pode ser instalado e utilizado num projeto."
+    "definicao": "Conjunto distribuível de código e recursos que pode ser instalado e utilizado num projeto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Package+explicado"
   },
   {
     "termo": "Dependency",
     "categoria": "Desenvolvimento",
-    "definicao": "Biblioteca, pacote ou componente externo de que um projeto depende para funcionar."
+    "definicao": "Biblioteca, pacote ou componente externo de que um projeto depende para funcionar.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Dependency+explicado"
   },
   {
     "termo": "Module",
     "categoria": "Programação",
-    "definicao": "Unidade de código organizada de forma independente e que pode ser importada ou reutilizada."
+    "definicao": "Unidade de código organizada de forma independente e que pode ser importada ou reutilizada.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Module+explicado"
   },
   {
     "termo": "Namespace",
     "categoria": "Programação",
-    "definicao": "Mecanismo utilizado para organizar nomes e evitar conflitos entre identificadores."
+    "definicao": "Mecanismo utilizado para organizar nomes e evitar conflitos entre identificadores.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Namespace+explicado"
   },
   {
     "termo": "Abstração",
     "categoria": "Programação",
-    "definicao": "Técnica de representar os aspetos essenciais de um sistema enquanto se escondem detalhes desnecessários."
+    "definicao": "Técnica de representar os aspetos essenciais de um sistema enquanto se escondem detalhes desnecessários.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Abstração+explicado"
   },
   {
     "termo": "Encapsulamento",
     "categoria": "Programação Orientada a Objetos",
-    "definicao": "Princípio que combina dados e comportamentos e controla o acesso aos detalhes internos de um objeto."
+    "definicao": "Princípio que combina dados e comportamentos e controla o acesso aos detalhes internos de um objeto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Encapsulamento+explicado"
   },
   {
     "termo": "Herança",
     "categoria": "Programação Orientada a Objetos",
-    "definicao": "Mecanismo pelo qual uma classe pode adquirir características e comportamentos de outra classe."
+    "definicao": "Mecanismo pelo qual uma classe pode adquirir características e comportamentos de outra classe.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Herança+explicado"
   },
   {
     "termo": "Polimorfismo",
     "categoria": "Programação Orientada a Objetos",
-    "definicao": "Capacidade de diferentes objetos responderem à mesma interface ou operação de maneiras diferentes."
+    "definicao": "Capacidade de diferentes objetos responderem à mesma interface ou operação de maneiras diferentes.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Polimorfismo+explicado"
   },
   {
     "termo": "Classe",
     "categoria": "Programação Orientada a Objetos",
-    "definicao": "Estrutura que define atributos e comportamentos que podem ser utilizados por objetos."
+    "definicao": "Estrutura que define atributos e comportamentos que podem ser utilizados por objetos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Classe+explicado"
   },
   {
     "termo": "Objeto",
     "categoria": "Programação Orientada a Objetos",
-    "definicao": "Instância de uma classe que possui estado e comportamentos definidos."
+    "definicao": "Instância de uma classe que possui estado e comportamentos definidos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Objeto+explicado"
   },
   {
     "termo": "Método",
     "categoria": "Programação Orientada a Objetos",
-    "definicao": "Função associada a uma classe ou objeto."
+    "definicao": "Função associada a uma classe ou objeto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Método+explicado"
   },
   {
     "termo": "Construtor",
     "categoria": "Programação Orientada a Objetos",
-    "definicao": "Método especial utilizado para inicializar um objeto quando ele é criado."
+    "definicao": "Método especial utilizado para inicializar um objeto quando ele é criado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Construtor+explicado"
   },
   {
     "termo": "Interface",
     "categoria": "Programação",
-    "definicao": "Contrato que define operações ou comportamentos que uma implementação deve fornecer."
+    "definicao": "Contrato que define operações ou comportamentos que uma implementação deve fornecer.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Interface+explicado"
   },
   {
     "termo": "Pilha",
     "categoria": "Estruturas de Dados",
-    "definicao": "Estrutura de dados baseada no princípio LIFO, em que o último elemento inserido é o primeiro a ser removido."
+    "definicao": "Estrutura de dados baseada no princípio LIFO, em que o último elemento inserido é o primeiro a ser removido.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Pilha+explicado"
   },
   {
     "termo": "Fila",
     "categoria": "Estruturas de Dados",
-    "definicao": "Estrutura de dados baseada no princípio FIFO, em que o primeiro elemento inserido é o primeiro a ser removido."
+    "definicao": "Estrutura de dados baseada no princípio FIFO, em que o primeiro elemento inserido é o primeiro a ser removido.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Fila+explicado"
   },
   {
     "termo": "Linked List",
     "categoria": "Estruturas de Dados",
-    "definicao": "Estrutura formada por nós ligados entre si através de referências ou ponteiros."
+    "definicao": "Estrutura formada por nós ligados entre si através de referências ou ponteiros.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Linked+List+explicado"
   },
   {
     "termo": "Node",
     "categoria": "Estruturas de Dados",
-    "definicao": "Elemento individual de estruturas como listas ligadas, árvores e grafos."
+    "definicao": "Elemento individual de estruturas como listas ligadas, árvores e grafos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Node+explicado"
   },
   {
     "termo": "Árvore",
     "categoria": "Estruturas de Dados",
-    "definicao": "Estrutura hierárquica composta por nós relacionados através de ligações entre elementos pai e filho."
+    "definicao": "Estrutura hierárquica composta por nós relacionados através de ligações entre elementos pai e filho.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Árvore+explicado"
   },
   {
     "termo": "Binary Tree",
     "categoria": "Estruturas de Dados",
-    "definicao": "Árvore em que cada nó pode possuir no máximo dois filhos."
+    "definicao": "Árvore em que cada nó pode possuir no máximo dois filhos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Binary+Tree+explicado"
   },
   {
     "termo": "Binary Search Tree",
     "categoria": "Estruturas de Dados",
-    "definicao": "Árvore binária organizada de forma a facilitar operações de pesquisa, inserção e remoção."
+    "definicao": "Árvore binária organizada de forma a facilitar operações de pesquisa, inserção e remoção.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Binary+Search+Tree+explicado"
   },
   {
     "termo": "Grafo",
     "categoria": "Estruturas de Dados",
-    "definicao": "Estrutura formada por vértices e arestas que representam relações entre elementos."
+    "definicao": "Estrutura formada por vértices e arestas que representam relações entre elementos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Grafo+explicado"
   },
   {
     "termo": "Hash Table",
     "categoria": "Estruturas de Dados",
-    "definicao": "Estrutura que utiliza uma função hash para associar chaves a posições e permitir acesso eficiente aos valores."
+    "definicao": "Estrutura que utiliza uma função hash para associar chaves a posições e permitir acesso eficiente aos valores.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Hash+Table+explicado"
   },
   {
     "termo": "Big O",
     "categoria": "Algoritmos",
-    "definicao": "Notação utilizada para descrever como o custo computacional de um algoritmo cresce em função do tamanho da entrada."
+    "definicao": "Notação utilizada para descrever como o custo computacional de um algoritmo cresce em função do tamanho da entrada.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Big+O+explicado"
   },
   {
     "termo": "Complexidade Temporal",
     "categoria": "Algoritmos",
-    "definicao": "Medida de como o tempo de execução de um algoritmo varia conforme aumenta o tamanho da entrada."
+    "definicao": "Medida de como o tempo de execução de um algoritmo varia conforme aumenta o tamanho da entrada.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Complexidade+Temporal+explicado"
   },
   {
     "termo": "Complexidade Espacial",
     "categoria": "Algoritmos",
-    "definicao": "Medida da quantidade de memória adicional necessária para executar um algoritmo."
+    "definicao": "Medida da quantidade de memória adicional necessária para executar um algoritmo.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Complexidade+Espacial+explicado"
   },
   {
     "termo": "Busca Linear",
     "categoria": "Algoritmos",
-    "definicao": "Algoritmo de pesquisa que verifica sequencialmente os elementos até encontrar o valor procurado."
+    "definicao": "Algoritmo de pesquisa que verifica sequencialmente os elementos até encontrar o valor procurado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Busca+Linear+explicado"
   },
   {
     "termo": "Busca Binária",
     "categoria": "Algoritmos",
-    "definicao": "Algoritmo de pesquisa eficiente que divide repetidamente um conjunto ordenado em partes menores."
+    "definicao": "Algoritmo de pesquisa eficiente que divide repetidamente um conjunto ordenado em partes menores.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Busca+Binária+explicado"
   },
   {
     "termo": "Bubble Sort",
     "categoria": "Algoritmos",
-    "definicao": "Algoritmo de ordenação que compara elementos adjacentes e os troca quando estão na ordem incorreta."
+    "definicao": "Algoritmo de ordenação que compara elementos adjacentes e os troca quando estão na ordem incorreta.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Bubble+Sort+explicado"
   },
   {
     "termo": "Merge Sort",
     "categoria": "Algoritmos",
-    "definicao": "Algoritmo de ordenação baseado na divisão do conjunto em partes menores e posterior combinação ordenada."
+    "definicao": "Algoritmo de ordenação baseado na divisão do conjunto em partes menores e posterior combinação ordenada.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Merge+Sort+explicado"
   },
   {
     "termo": "Quick Sort",
     "categoria": "Algoritmos",
-    "definicao": "Algoritmo de ordenação baseado na escolha de um elemento pivô e na divisão dos elementos em relação a ele."
+    "definicao": "Algoritmo de ordenação baseado na escolha de um elemento pivô e na divisão dos elementos em relação a ele.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Quick+Sort+explicado"
   },
   {
     "termo": "Recursividade",
     "categoria": "Algoritmos",
-    "definicao": "Característica de um algoritmo ou função que resolve um problema através de chamadas a si próprio."
+    "definicao": "Característica de um algoritmo ou função que resolve um problema através de chamadas a si próprio.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Recursividade+explicado"
   },
   {
     "termo": "Pseudocódigo",
     "categoria": "Algoritmos",
-    "definicao": "Descrição estruturada de um algoritmo utilizando linguagem próxima da linguagem humana, sem depender de uma sintaxe específica."
+    "definicao": "Descrição estruturada de um algoritmo utilizando linguagem próxima da linguagem humana, sem depender de uma sintaxe específica.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Pseudocódigo+explicado"
   },
   {
     "termo": "Fluxograma",
     "categoria": "Algoritmos",
-    "definicao": "Representação gráfica das etapas e decisões de um algoritmo ou processo."
+    "definicao": "Representação gráfica das etapas e decisões de um algoritmo ou processo.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Fluxograma+explicado"
   },
   {
     "termo": "Docker",
     "categoria": "DevOps",
-    "definicao": "Plataforma utilizada para criar, executar e distribuir aplicações em containers."
+    "definicao": "Plataforma utilizada para criar, executar e distribuir aplicações em containers.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Docker+explicado"
   },
   {
     "termo": "Container",
     "categoria": "DevOps",
-    "definicao": "Ambiente isolado que empacota uma aplicação e as suas dependências para execução consistente."
+    "definicao": "Ambiente isolado que empacota uma aplicação e as suas dependências para execução consistente.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Container+explicado"
   },
   {
     "termo": "Dockerfile",
     "categoria": "Docker",
-    "definicao": "Arquivo que contém instruções utilizadas para construir uma imagem Docker."
+    "definicao": "Arquivo que contém instruções utilizadas para construir uma imagem Docker.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Dockerfile+explicado"
   },
   {
     "termo": "Image",
     "categoria": "Docker",
-    "definicao": "Pacote imutável que contém o sistema de ficheiros e informações necessárias para criar um container."
+    "definicao": "Pacote imutável que contém o sistema de ficheiros e informações necessárias para criar um container.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Image+explicado"
   },
   {
     "termo": "CI/CD",
     "categoria": "DevOps",
-    "definicao": "Práticas de integração, teste e entrega ou implantação automatizada de software."
+    "definicao": "Práticas de integração, teste e entrega ou implantação automatizada de software.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=CI/CD+explicado"
   },
   {
     "termo": "Pipeline",
     "categoria": "DevOps",
-    "definicao": "Sequência automatizada de etapas usadas para construir, testar, verificar e disponibilizar software."
+    "definicao": "Sequência automatizada de etapas usadas para construir, testar, verificar e disponibilizar software.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Pipeline+explicado"
   },
   {
     "termo": "Deploy",
     "categoria": "DevOps",
-    "definicao": "Processo de disponibilizar uma aplicação ou nova versão num ambiente onde pode ser utilizada."
+    "definicao": "Processo de disponibilizar uma aplicação ou nova versão num ambiente onde pode ser utilizada.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Deploy+explicado"
   },
   {
     "termo": "Build",
     "categoria": "Desenvolvimento",
-    "definicao": "Processo de transformar código-fonte e recursos num artefacto executável ou distribuível."
+    "definicao": "Processo de transformar código-fonte e recursos num artefacto executável ou distribuível.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Build+explicado"
   },
   {
     "termo": "Teste Unitário",
     "categoria": "Testes",
-    "definicao": "Teste automatizado destinado a verificar o comportamento de uma pequena unidade isolada de código."
+    "definicao": "Teste automatizado destinado a verificar o comportamento de uma pequena unidade isolada de código.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Teste+Unitário+explicado"
   },
   {
     "termo": "Teste de Integração",
     "categoria": "Testes",
-    "definicao": "Teste que verifica se diferentes componentes ou sistemas funcionam corretamente em conjunto."
+    "definicao": "Teste que verifica se diferentes componentes ou sistemas funcionam corretamente em conjunto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Teste+de+Integração+explicado"
   },
   {
     "termo": "Teste End-to-End",
     "categoria": "Testes",
-    "definicao": "Teste que verifica uma aplicação através de um fluxo completo, desde a entrada até ao resultado final."
+    "definicao": "Teste que verifica uma aplicação através de um fluxo completo, desde a entrada até ao resultado final.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Teste+End-to-End+explicado"
   },
   {
     "termo": "Refatoração",
     "categoria": "Engenharia de Software",
-    "definicao": "Processo de melhorar a estrutura interna do código sem alterar o comportamento externo esperado."
+    "definicao": "Processo de melhorar a estrutura interna do código sem alterar o comportamento externo esperado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Refatoração+explicado"
   },
   {
     "termo": "Clean Code",
     "categoria": "Engenharia de Software",
-    "definicao": "Conjunto de princípios que procura tornar o código mais legível, compreensível, sustentável e fácil de modificar."
+    "definicao": "Conjunto de princípios que procura tornar o código mais legível, compreensível, sustentável e fácil de modificar.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Clean+Code+explicado"
   },
   {
     "termo": "DRY",
     "categoria": "Engenharia de Software",
-    "definicao": "Princípio 'Don't Repeat Yourself' que incentiva evitar duplicação desnecessária de lógica ou conhecimento."
+    "definicao": "Princípio 'Don't Repeat Yourself' que incentiva evitar duplicação desnecessária de lógica ou conhecimento.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=DRY+explicado"
   },
   {
     "termo": "KISS",
     "categoria": "Engenharia de Software",
-    "definicao": "Princípio que recomenda manter soluções tão simples quanto possível, evitando complexidade desnecessária."
+    "definicao": "Princípio que recomenda manter soluções tão simples quanto possível, evitando complexidade desnecessária.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=KISS+explicado"
   },
   {
     "termo": "SOLID",
     "categoria": "Engenharia de Software",
-    "definicao": "Conjunto de cinco princípios utilizados para melhorar a estrutura e manutenção de software orientado a objetos."
+    "definicao": "Conjunto de cinco princípios utilizados para melhorar a estrutura e manutenção de software orientado a objetos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=SOLID+explicado"
   },
   {
     "termo": "Cloud Computing",
     "categoria": "Cloud",
-    "definicao": "Modelo de computação que disponibiliza recursos como servidores, armazenamento e serviços através da Internet."
+    "definicao": "Modelo de computação que disponibiliza recursos como servidores, armazenamento e serviços através da Internet.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Cloud+Computing+explicado"
   },
   {
     "termo": "AWS",
     "categoria": "Cloud",
-    "definicao": "Plataforma de computação em nuvem da Amazon que disponibiliza uma ampla variedade de serviços."
+    "definicao": "Plataforma de computação em nuvem da Amazon que disponibiliza uma ampla variedade de serviços.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=AWS+explicado"
   },
   {
     "termo": "Azure",
     "categoria": "Cloud",
-    "definicao": "Plataforma de computação em nuvem da Microsoft."
+    "definicao": "Plataforma de computação em nuvem da Microsoft.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Azure+explicado"
   },
   {
     "termo": "Google Cloud",
     "categoria": "Cloud",
-    "definicao": "Plataforma de serviços de computação em nuvem disponibilizada pela Google."
+    "definicao": "Plataforma de serviços de computação em nuvem disponibilizada pela Google.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Google+Cloud+explicado"
   },
   {
     "termo": "Virtual Machine",
     "categoria": "Cloud",
-    "definicao": "Ambiente virtualizado que funciona como um computador independente dentro de um sistema físico ou infraestrutura virtual."
+    "definicao": "Ambiente virtualizado que funciona como um computador independente dentro de um sistema físico ou infraestrutura virtual.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Virtual+Machine+explicado"
   },
   {
     "termo": "Serverless",
     "categoria": "Cloud",
-    "definicao": "Modelo de computação em que a infraestrutura de servidores é gerida pelo provedor e o programador se concentra no código e nos serviços."
+    "definicao": "Modelo de computação em que a infraestrutura de servidores é gerida pelo provedor e o programador se concentra no código e nos serviços.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Serverless+explicado"
   },
   {
     "termo": "SaaS",
     "categoria": "Cloud",
-    "definicao": "Modelo em que uma aplicação é disponibilizada como serviço, normalmente através da Internet."
+    "definicao": "Modelo em que uma aplicação é disponibilizada como serviço, normalmente através da Internet.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=SaaS+explicado"
   },
   {
     "termo": "PaaS",
     "categoria": "Cloud",
-    "definicao": "Modelo que fornece uma plataforma gerida para desenvolver, executar e disponibilizar aplicações."
+    "definicao": "Modelo que fornece uma plataforma gerida para desenvolver, executar e disponibilizar aplicações.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=PaaS+explicado"
   },
   {
     "termo": "IaaS",
     "categoria": "Cloud",
-    "definicao": "Modelo que disponibiliza recursos de infraestrutura virtualizados, como servidores, redes e armazenamento."
+    "definicao": "Modelo que disponibiliza recursos de infraestrutura virtualizados, como servidores, redes e armazenamento.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=IaaS+explicado"
   },
   {
     "termo": "Machine Learning",
     "categoria": "Inteligência Artificial",
-    "definicao": "Área da inteligência artificial em que sistemas aprendem padrões a partir de dados para realizar determinadas tarefas."
+    "definicao": "Área da inteligência artificial em que sistemas aprendem padrões a partir de dados para realizar determinadas tarefas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Machine+Learning+explicado"
   },
   {
     "termo": "Deep Learning",
     "categoria": "Inteligência Artificial",
-    "definicao": "Subárea de machine learning baseada principalmente em redes neurais com múltiplas camadas."
+    "definicao": "Subárea de machine learning baseada principalmente em redes neurais com múltiplas camadas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Deep+Learning+explicado"
   },
   {
     "termo": "Rede Neural",
     "categoria": "Inteligência Artificial",
-    "definicao": "Modelo computacional inspirado de forma abstrata no funcionamento de redes de neurónios e utilizado para aprender padrões."
+    "definicao": "Modelo computacional inspirado de forma abstrata no funcionamento de redes de neurónios e utilizado para aprender padrões.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Rede+Neural+explicado"
   },
   {
     "termo": "Dataset",
     "categoria": "Dados",
-    "definicao": "Conjunto organizado de dados utilizado para análise, treinamento, teste ou outros fins computacionais."
+    "definicao": "Conjunto organizado de dados utilizado para análise, treinamento, teste ou outros fins computacionais.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Dataset+explicado"
   },
   {
     "termo": "Feature",
     "categoria": "Machine Learning",
-    "definicao": "Variável ou atributo utilizado como entrada para um modelo de aprendizagem automática."
+    "definicao": "Variável ou atributo utilizado como entrada para um modelo de aprendizagem automática.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Feature+explicado"
   },
   {
     "termo": "Label",
     "categoria": "Machine Learning",
-    "definicao": "Valor ou classe que representa o resultado esperado num conjunto de dados supervisionado."
+    "definicao": "Valor ou classe que representa o resultado esperado num conjunto de dados supervisionado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Label+explicado"
   },
   {
     "termo": "Treino",
     "categoria": "Machine Learning",
-    "definicao": "Processo de ajustar os parâmetros de um modelo utilizando dados para que ele aprenda determinados padrões."
+    "definicao": "Processo de ajustar os parâmetros de um modelo utilizando dados para que ele aprenda determinados padrões.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Treino+explicado"
   },
   {
     "termo": "Modelo",
     "categoria": "Machine Learning",
-    "definicao": "Representação matemática ou computacional treinada para produzir previsões, classificações ou outros resultados."
+    "definicao": "Representação matemática ou computacional treinada para produzir previsões, classificações ou outros resultados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Modelo+explicado"
   },
   {
     "termo": "Overfitting",
     "categoria": "Machine Learning",
-    "definicao": "Situação em que um modelo aprende excessivamente os detalhes dos dados de treino e apresenta pior desempenho em dados novos."
+    "definicao": "Situação em que um modelo aprende excessivamente os detalhes dos dados de treino e apresenta pior desempenho em dados novos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Overfitting+explicado"
   },
   {
     "termo": "Underfitting",
     "categoria": "Machine Learning",
-    "definicao": "Situação em que um modelo é demasiado simples para capturar adequadamente os padrões relevantes dos dados."
+    "definicao": "Situação em que um modelo é demasiado simples para capturar adequadamente os padrões relevantes dos dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Underfitting+explicado"
   },
   {
     "termo": "Regressão",
     "categoria": "Machine Learning",
-    "definicao": "Tipo de problema de aprendizagem supervisionada em que o objetivo é prever valores numéricos."
+    "definicao": "Tipo de problema de aprendizagem supervisionada em que o objetivo é prever valores numéricos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Regressão+explicado"
   },
   {
     "termo": "Classificação",
     "categoria": "Machine Learning",
-    "definicao": "Tipo de problema de aprendizagem supervisionada em que o objetivo é atribuir dados a categorias."
+    "definicao": "Tipo de problema de aprendizagem supervisionada em que o objetivo é atribuir dados a categorias.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Classificação+explicado"
   },
   {
     "termo": "NLP",
     "categoria": "Inteligência Artificial",
-    "definicao": "Área da IA dedicada ao processamento e compreensão de linguagem natural por computadores."
+    "definicao": "Área da IA dedicada ao processamento e compreensão de linguagem natural por computadores.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=NLP+explicado"
   },
   {
     "termo": "LLM",
     "categoria": "Inteligência Artificial",
-    "definicao": "Modelo de linguagem de grande escala treinado com grandes quantidades de dados para processar e gerar linguagem."
+    "definicao": "Modelo de linguagem de grande escala treinado com grandes quantidades de dados para processar e gerar linguagem.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=LLM+explicado"
   },
   {
     "termo": "Prompt",
     "categoria": "Inteligência Artificial",
-    "definicao": "Instrução ou entrada fornecida a um modelo de IA para orientar a resposta ou tarefa que deve executar."
+    "definicao": "Instrução ou entrada fornecida a um modelo de IA para orientar a resposta ou tarefa que deve executar.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Prompt+explicado"
   },
   {
     "termo": "Tokenização",
     "categoria": "Inteligência Artificial",
-    "definicao": "Processo de dividir um texto em unidades menores chamadas tokens para processamento computacional."
+    "definicao": "Processo de dividir um texto em unidades menores chamadas tokens para processamento computacional.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Tokenização+explicado"
   },
   {
     "termo": "Data Science",
     "categoria": "Dados",
-    "definicao": "Área interdisciplinar que utiliza programação, estatística e conhecimento de domínio para extrair informação útil de dados."
+    "definicao": "Área interdisciplinar que utiliza programação, estatística e conhecimento de domínio para extrair informação útil de dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Data+Science+explicado"
   },
   {
     "termo": "Data Analysis",
     "categoria": "Dados",
-    "definicao": "Processo de examinar, transformar e interpretar dados para encontrar padrões e obter informações úteis."
+    "definicao": "Processo de examinar, transformar e interpretar dados para encontrar padrões e obter informações úteis.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Data+Analysis+explicado"
   },
   {
     "termo": "Data Engineering",
     "categoria": "Dados",
-    "definicao": "Área responsável pela construção e manutenção de sistemas e pipelines que recolhem, transformam e disponibilizam dados."
+    "definicao": "Área responsável pela construção e manutenção de sistemas e pipelines que recolhem, transformam e disponibilizam dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Data+Engineering+explicado"
   },
   {
     "termo": "ETL",
     "categoria": "Dados",
-    "definicao": "Processo de extrair dados de fontes, transformá-los e carregá-los num sistema de destino."
+    "definicao": "Processo de extrair dados de fontes, transformá-los e carregá-los num sistema de destino.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=ETL+explicado"
   },
   {
     "termo": "ELT",
     "categoria": "Dados",
-    "definicao": "Processo de extrair e carregar dados antes de realizar as transformações no sistema de destino."
+    "definicao": "Processo de extrair e carregar dados antes de realizar as transformações no sistema de destino.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=ELT+explicado"
   },
   {
     "termo": "Data Warehouse",
     "categoria": "Dados",
-    "definicao": "Sistema centralizado utilizado principalmente para armazenar dados estruturados destinados a análise e relatórios."
+    "definicao": "Sistema centralizado utilizado principalmente para armazenar dados estruturados destinados a análise e relatórios.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Data+Warehouse+explicado"
   },
   {
     "termo": "Data Lake",
     "categoria": "Dados",
-    "definicao": "Repositório capaz de armazenar grandes volumes de dados em diferentes formatos, incluindo dados brutos."
+    "definicao": "Repositório capaz de armazenar grandes volumes de dados em diferentes formatos, incluindo dados brutos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Data+Lake+explicado"
   },
   {
     "termo": "Pipeline de Dados",
     "categoria": "Dados",
-    "definicao": "Conjunto de processos automatizados que transportam e transformam dados entre diferentes sistemas."
+    "definicao": "Conjunto de processos automatizados que transportam e transformam dados entre diferentes sistemas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Pipeline+de+Dados+explicado"
   },
   {
     "termo": "CSV",
     "categoria": "Dados",
-    "definicao": "Formato textual utilizado para representar dados tabulares separados normalmente por vírgulas ou outro delimitador."
+    "definicao": "Formato textual utilizado para representar dados tabulares separados normalmente por vírgulas ou outro delimitador.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=CSV+explicado"
   },
   {
     "termo": "RegEx",
     "categoria": "Programação",
-    "definicao": "Sistema de padrões utilizado para pesquisar, validar ou manipular sequências de texto."
+    "definicao": "Sistema de padrões utilizado para pesquisar, validar ou manipular sequências de texto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=RegEx+explicado"
   },
   {
     "termo": "CLI",
     "categoria": "Ferramentas",
-    "definicao": "Interface de Linha de Comandos que permite interagir com um programa ou sistema através de comandos textuais."
+    "definicao": "Interface de Linha de Comandos que permite interagir com um programa ou sistema através de comandos textuais.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=CLI+explicado"
   },
   {
     "termo": "GUI",
     "categoria": "Computação",
-    "definicao": "Interface Gráfica do Utilizador que permite interagir com um sistema através de elementos visuais."
+    "definicao": "Interface Gráfica do Utilizador que permite interagir com um sistema através de elementos visuais.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=GUI+explicado"
   },
   {
     "termo": "Open Source",
     "categoria": "Software",
-    "definicao": "Modelo de desenvolvimento em que o código-fonte é disponibilizado sob condições definidas por uma licença de código aberto."
+    "definicao": "Modelo de desenvolvimento em que o código-fonte é disponibilizado sob condições definidas por uma licença de código aberto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Open+Source+explicado"
   },
   {
     "termo": "Licença de Software",
     "categoria": "Software",
-    "definicao": "Conjunto de termos legais que define como um software pode ser utilizado, modificado e distribuído."
+    "definicao": "Conjunto de termos legais que define como um software pode ser utilizado, modificado e distribuído.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Licença+de+Software+explicado"
   },
   {
     "termo": "README",
     "categoria": "Documentação",
-    "definicao": "Arquivo normalmente utilizado para explicar um projeto, incluindo instalação, utilização, configuração e outras informações relevantes."
+    "definicao": "Arquivo normalmente utilizado para explicar um projeto, incluindo instalação, utilização, configuração e outras informações relevantes.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=README+explicado"
   },
   {
     "termo": "Documentation",
     "categoria": "Engenharia de Software",
-    "definicao": "Conjunto de informações que explica como um sistema, código, API ou ferramenta funciona e deve ser utilizado."
+    "definicao": "Conjunto de informações que explica como um sistema, código, API ou ferramenta funciona e deve ser utilizado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Documentation+explicado"
   },
   {
     "termo": "Versionamento",
     "categoria": "Engenharia de Software",
-    "definicao": "Processo de identificar e controlar diferentes versões de um software ou conjunto de ficheiros."
+    "definicao": "Processo de identificar e controlar diferentes versões de um software ou conjunto de ficheiros.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Versionamento+explicado"
   },
   {
     "termo": "SemVer",
     "categoria": "Software",
-    "definicao": "Sistema de versionamento semântico que utiliza números de versão para comunicar alterações e compatibilidade."
+    "definicao": "Sistema de versionamento semântico que utiliza números de versão para comunicar alterações e compatibilidade.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=SemVer+explicado"
   },
   {
     "termo": "Patch",
     "categoria": "Software",
-    "definicao": "Atualização geralmente pequena destinada a corrigir erros, vulnerabilidades ou problemas específicos."
+    "definicao": "Atualização geralmente pequena destinada a corrigir erros, vulnerabilidades ou problemas específicos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Patch+explicado"
   },
   {
     "termo": "Release",
     "categoria": "Software",
-    "definicao": "Versão de um software disponibilizada para utilização ou distribuição."
+    "definicao": "Versão de um software disponibilizada para utilização ou distribuição.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Release+explicado"
   },
   {
     "termo": "Hotfix",
     "categoria": "Software",
-    "definicao": "Correção rápida destinada a resolver um problema crítico, normalmente sem esperar pelo ciclo normal de lançamento."
+    "definicao": "Correção rápida destinada a resolver um problema crítico, normalmente sem esperar pelo ciclo normal de lançamento.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Hotfix+explicado"
   },
   {
     "termo": "Lint",
     "categoria": "Qualidade de Código",
-    "definicao": "Processo automatizado de análise do código para identificar problemas, padrões inadequados ou possíveis erros."
+    "definicao": "Processo automatizado de análise do código para identificar problemas, padrões inadequados ou possíveis erros.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Lint+explicado"
   },
   {
     "termo": "Linter",
     "categoria": "Ferramentas",
-    "definicao": "Ferramenta que analisa código-fonte para encontrar problemas de estilo, qualidade ou possíveis erros."
+    "definicao": "Ferramenta que analisa código-fonte para encontrar problemas de estilo, qualidade ou possíveis erros.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Linter+explicado"
   },
   {
     "termo": "Compiler Warning",
     "categoria": "C",
-    "definicao": "Aviso produzido pelo compilador sobre uma construção de código potencialmente problemática ou suspeita."
+    "definicao": "Aviso produzido pelo compilador sobre uma construção de código potencialmente problemática ou suspeita.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Compiler+Warning+explicado"
   },
   {
     "termo": "Segmentation Fault",
     "categoria": "C",
-    "definicao": "Erro de execução que ocorre quando um programa tenta acessar uma região de memória de forma inválida."
+    "definicao": "Erro de execução que ocorre quando um programa tenta acessar uma região de memória de forma inválida.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Segmentation+Fault+explicado"
   },
   {
     "termo": "Memory Leak",
     "categoria": "C",
-    "definicao": "Situação em que memória alocada dinamicamente deixa de ser utilizada mas não é libertada corretamente."
+    "definicao": "Situação em que memória alocada dinamicamente deixa de ser utilizada mas não é libertada corretamente.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Memory+Leak+explicado"
   },
   {
     "termo": "Buffer",
     "categoria": "Programação",
-    "definicao": "Área de memória utilizada temporariamente para armazenar dados durante operações de entrada, saída ou processamento."
+    "definicao": "Área de memória utilizada temporariamente para armazenar dados durante operações de entrada, saída ou processamento.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Buffer+explicado"
   },
   {
     "termo": "Buffer Overflow",
     "categoria": "Segurança",
-    "definicao": "Falha que ocorre quando dados são escritos além dos limites de um buffer."
+    "definicao": "Falha que ocorre quando dados são escritos além dos limites de um buffer.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Buffer+Overflow+explicado"
   },
   {
     "termo": "File Descriptor",
     "categoria": "Unix",
-    "definicao": "Identificador numérico utilizado por sistemas Unix para representar recursos abertos, como ficheiros ou dispositivos."
+    "definicao": "Identificador numérico utilizado por sistemas Unix para representar recursos abertos, como ficheiros ou dispositivos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=File+Descriptor+explicado"
   },
   {
     "termo": "System Call",
     "categoria": "Sistemas Operativos",
-    "definicao": "Mecanismo através do qual um programa solicita serviços ao kernel do sistema operativo."
+    "definicao": "Mecanismo através do qual um programa solicita serviços ao kernel do sistema operativo.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=System+Call+explicado"
   },
   {
     "termo": "Pipe",
     "categoria": "Unix",
-    "definicao": "Mecanismo de comunicação que permite encaminhar a saída de um processo para a entrada de outro."
+    "definicao": "Mecanismo de comunicação que permite encaminhar a saída de um processo para a entrada de outro.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Pipe+explicado"
   },
   {
     "termo": "Process ID",
     "categoria": "Sistemas",
-    "definicao": "Número utilizado pelo sistema operativo para identificar um processo em execução."
+    "definicao": "Número utilizado pelo sistema operativo para identificar um processo em execução.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Process+ID+explicado"
   },
   {
     "termo": "Daemon",
     "categoria": "Linux",
-    "definicao": "Processo executado em segundo plano que fornece um serviço ou realiza tarefas de forma contínua ou sob determinadas condições."
+    "definicao": "Processo executado em segundo plano que fornece um serviço ou realiza tarefas de forma contínua ou sob determinadas condições.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Daemon+explicado"
   },
   {
     "termo": "SSH",
     "categoria": "Redes",
-    "definicao": "Protocolo utilizado para estabelecer sessões seguras e executar comandos remotamente através de uma rede."
+    "definicao": "Protocolo utilizado para estabelecer sessões seguras e executar comandos remotamente através de uma rede.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=SSH+explicado"
   },
   {
     "termo": "Porta",
     "categoria": "Redes",
-    "definicao": "Número lógico utilizado para identificar um serviço ou aplicação numa comunicação de rede."
+    "definicao": "Número lógico utilizado para identificar um serviço ou aplicação numa comunicação de rede.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Porta+explicado"
   },
   {
     "termo": "Firewall",
     "categoria": "Segurança",
-    "definicao": "Sistema que controla o tráfego de rede com base em regras de segurança."
+    "definicao": "Sistema que controla o tráfego de rede com base em regras de segurança.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Firewall+explicado"
   },
   {
     "termo": "Load Balancer",
     "categoria": "Infraestrutura",
-    "definicao": "Sistema que distribui requisições entre múltiplos servidores ou recursos para melhorar disponibilidade e desempenho."
+    "definicao": "Sistema que distribui requisições entre múltiplos servidores ou recursos para melhorar disponibilidade e desempenho.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Load+Balancer+explicado"
   },
   {
     "termo": "Cache",
     "categoria": "Computação",
-    "definicao": "Armazenamento temporário de dados para acelerar o acesso a informações que podem ser reutilizadas."
+    "definicao": "Armazenamento temporário de dados para acelerar o acesso a informações que podem ser reutilizadas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Cache+explicado"
   },
   {
     "termo": "Latency",
     "categoria": "Redes",
-    "definicao": "Tempo necessário para que uma operação, mensagem ou pedido percorra o caminho entre origem e destino."
+    "definicao": "Tempo necessário para que uma operação, mensagem ou pedido percorra o caminho entre origem e destino.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Latency+explicado"
   },
   {
     "termo": "Throughput",
     "categoria": "Computação",
-    "definicao": "Quantidade de dados ou operações que um sistema consegue processar durante determinado período."
+    "definicao": "Quantidade de dados ou operações que um sistema consegue processar durante determinado período.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Throughput+explicado"
   },
   {
     "termo": "Scalability",
     "categoria": "Arquitetura",
-    "definicao": "Capacidade de um sistema aumentar a sua capacidade para suportar crescimento de utilizadores, dados ou carga."
+    "definicao": "Capacidade de um sistema aumentar a sua capacidade para suportar crescimento de utilizadores, dados ou carga.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Scalability+explicado"
   },
   {
     "termo": "Microservices",
     "categoria": "Arquitetura",
-    "definicao": "Estilo arquitetural em que uma aplicação é dividida em serviços menores e relativamente independentes."
+    "definicao": "Estilo arquitetural em que uma aplicação é dividida em serviços menores e relativamente independentes.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Microservices+explicado"
   },
   {
     "termo": "Monolith",
     "categoria": "Arquitetura",
-    "definicao": "Aplicação construída como uma única unidade de software, com os seus principais componentes integrados."
+    "definicao": "Aplicação construída como uma única unidade de software, com os seus principais componentes integrados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Monolith+explicado"
   },
   {
     "termo": "Message Queue",
     "categoria": "Arquitetura",
-    "definicao": "Sistema que permite armazenar mensagens temporariamente para comunicação assíncrona entre componentes."
+    "definicao": "Sistema que permite armazenar mensagens temporariamente para comunicação assíncrona entre componentes.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Message+Queue+explicado"
   },
   {
     "termo": "WebSocket",
     "categoria": "Web",
-    "definicao": "Protocolo que permite comunicação bidirecional persistente entre cliente e servidor."
+    "definicao": "Protocolo que permite comunicação bidirecional persistente entre cliente e servidor.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=WebSocket+explicado"
   },
   {
     "termo": "GraphQL",
     "categoria": "APIs",
-    "definicao": "Linguagem de consulta e runtime para APIs que permite aos clientes solicitar os dados específicos de que necessitam."
+    "definicao": "Linguagem de consulta e runtime para APIs que permite aos clientes solicitar os dados específicos de que necessitam.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=GraphQL+explicado"
   },
   {
     "termo": "Webhook",
     "categoria": "Web",
-    "definicao": "Mecanismo que permite a um sistema enviar automaticamente uma requisição HTTP para outro sistema quando ocorre determinado evento."
+    "definicao": "Mecanismo que permite a um sistema enviar automaticamente uma requisição HTTP para outro sistema quando ocorre determinado evento.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Webhook+explicado"
   },
   {
     "termo": "CORS",
     "categoria": "Web",
-    "definicao": "Mecanismo de segurança dos navegadores que controla requisições entre diferentes origens."
+    "definicao": "Mecanismo de segurança dos navegadores que controla requisições entre diferentes origens.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=CORS+explicado"
   },
   {
     "termo": "SSL/TLS",
     "categoria": "Segurança",
-    "definicao": "Tecnologias criptográficas utilizadas para proteger comunicações através de redes, incluindo a Web."
+    "definicao": "Tecnologias criptográficas utilizadas para proteger comunicações através de redes, incluindo a Web.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=SSL/TLS+explicado"
   },
   {
     "termo": "Rate Limiting",
     "categoria": "APIs",
-    "definicao": "Mecanismo que limita a quantidade de requisições que um cliente pode realizar num determinado período."
+    "definicao": "Mecanismo que limita a quantidade de requisições que um cliente pode realizar num determinado período.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Rate+Limiting+explicado"
   },
   {
     "termo": "Status Code",
     "categoria": "HTTP",
-    "definicao": "Código numérico utilizado numa resposta HTTP para indicar o resultado de uma requisição."
+    "definicao": "Código numérico utilizado numa resposta HTTP para indicar o resultado de uma requisição.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Status+Code+explicado"
   },
   {
     "termo": "404",
     "categoria": "HTTP",
-    "definicao": "Código HTTP que indica que o servidor não encontrou o recurso solicitado."
+    "definicao": "Código HTTP que indica que o servidor não encontrou o recurso solicitado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=404+explicado"
   },
   {
     "termo": "200 OK",
     "categoria": "HTTP",
-    "definicao": "Código HTTP que indica que uma requisição foi processada com sucesso."
+    "definicao": "Código HTTP que indica que uma requisição foi processada com sucesso.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=200+OK+explicado"
   },
   {
     "termo": "500 Internal Server Error",
     "categoria": "HTTP",
-    "definicao": "Código HTTP que indica um erro interno inesperado no servidor."
+    "definicao": "Código HTTP que indica um erro interno inesperado no servidor.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=500+Internal+Server+Error+explicado"
   },
   {
     "termo": "CRUD",
     "categoria": "Bases de Dados",
-    "definicao": "Conjunto das quatro operações básicas de manipulação de dados: criar, ler, atualizar e eliminar."
+    "definicao": "Conjunto das quatro operações básicas de manipulação de dados: criar, ler, atualizar e eliminar.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=CRUD+explicado"
   },
   {
     "termo": "ORM",
     "categoria": "Bases de Dados",
-    "definicao": "Técnica que permite trabalhar com dados relacionais através de objetos e abstrações da linguagem de programação."
+    "definicao": "Técnica que permite trabalhar com dados relacionais através de objetos e abstrações da linguagem de programação.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=ORM+explicado"
   },
   {
     "termo": "Migration",
     "categoria": "Bases de Dados",
-    "definicao": "Mecanismo utilizado para controlar e aplicar alterações estruturais numa base de dados de forma organizada."
+    "definicao": "Mecanismo utilizado para controlar e aplicar alterações estruturais numa base de dados de forma organizada.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Migration+explicado"
   },
   {
     "termo": "ORM Model",
     "categoria": "Desenvolvimento",
-    "definicao": "Representação de uma entidade da base de dados através de uma estrutura ou classe utilizada pelo ORM."
+    "definicao": "Representação de uma entidade da base de dados através de uma estrutura ou classe utilizada pelo ORM.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=ORM+Model+explicado"
   },
   {
     "termo": "Environment Variable",
     "categoria": "Configuração",
-    "definicao": "Valor de configuração fornecido pelo ambiente de execução e utilizado por uma aplicação."
+    "definicao": "Valor de configuração fornecido pelo ambiente de execução e utilizado por uma aplicação.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Environment+Variable+explicado"
   },
   {
     "termo": "Secret",
     "categoria": "Segurança",
-    "definicao": "Informação confidencial, como uma senha ou chave de API, que deve ser protegida contra exposição."
+    "definicao": "Informação confidencial, como uma senha ou chave de API, que deve ser protegida contra exposição.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Secret+explicado"
   },
   {
     "termo": "Dependency Injection",
     "categoria": "Arquitetura",
-    "definicao": "Técnica em que as dependências de um componente são fornecidas externamente em vez de serem criadas diretamente por ele."
+    "definicao": "Técnica em que as dependências de um componente são fornecidas externamente em vez de serem criadas diretamente por ele.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Dependency+Injection+explicado"
   },
   {
     "termo": "Design Pattern",
     "categoria": "Engenharia de Software",
-    "definicao": "Solução reutilizável e conhecida para um problema recorrente de projeto de software."
+    "definicao": "Solução reutilizável e conhecida para um problema recorrente de projeto de software.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Design+Pattern+explicado"
   },
   {
     "termo": "Singleton",
     "categoria": "Design Patterns",
-    "definicao": "Padrão que restringe uma classe a possuir uma única instância acessível dentro de determinado contexto."
+    "definicao": "Padrão que restringe uma classe a possuir uma única instância acessível dentro de determinado contexto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Singleton+explicado"
   },
   {
     "termo": "MVC",
     "categoria": "Arquitetura",
-    "definicao": "Padrão arquitetural que separa uma aplicação em Model, View e Controller."
+    "definicao": "Padrão arquitetural que separa uma aplicação em Model, View e Controller.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=MVC+explicado"
   },
   {
     "termo": "Event-Driven",
     "categoria": "Arquitetura",
-    "definicao": "Modelo em que o comportamento do sistema é desencadeado por eventos."
+    "definicao": "Modelo em que o comportamento do sistema é desencadeado por eventos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Event-Driven+explicado"
   },
   {
     "termo": "Event",
     "categoria": "Programação",
-    "definicao": "Ocorrência ou sinal que pode provocar uma determinada ação num sistema."
+    "definicao": "Ocorrência ou sinal que pode provocar uma determinada ação num sistema.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Event+explicado"
   },
   {
     "termo": "Callback",
     "categoria": "Programação",
-    "definicao": "Função fornecida a outra função para ser executada posteriormente quando determinada operação ou evento ocorrer."
+    "definicao": "Função fornecida a outra função para ser executada posteriormente quando determinada operação ou evento ocorrer.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Callback+explicado"
   },
   {
     "termo": "Promise",
     "categoria": "JavaScript",
-    "definicao": "Objeto utilizado para representar o resultado futuro de uma operação assíncrona."
+    "definicao": "Objeto utilizado para representar o resultado futuro de uma operação assíncrona.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Promise+explicado"
   },
   {
     "termo": "Async/Await",
     "categoria": "Programação Assíncrona",
-    "definicao": "Sintaxe utilizada em várias linguagens para escrever e controlar operações assíncronas de forma mais legível."
+    "definicao": "Sintaxe utilizada em várias linguagens para escrever e controlar operações assíncronas de forma mais legível.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Async/Await+explicado"
   },
   {
     "termo": "Thread Pool",
     "categoria": "Concorrência",
-    "definicao": "Conjunto de threads previamente criadas que podem ser reutilizadas para executar tarefas."
+    "definicao": "Conjunto de threads previamente criadas que podem ser reutilizadas para executar tarefas.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Thread+Pool+explicado"
   },
   {
     "termo": "Race Condition",
     "categoria": "Concorrência",
-    "definicao": "Problema que ocorre quando o resultado depende da ordem ou do momento em que múltiplas tarefas acessam recursos partilhados."
+    "definicao": "Problema que ocorre quando o resultado depende da ordem ou do momento em que múltiplas tarefas acessam recursos partilhados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Race+Condition+explicado"
   },
   {
     "termo": "Deadlock",
     "categoria": "Concorrência",
-    "definicao": "Situação em que dois ou mais processos ou threads ficam bloqueados à espera de recursos uns dos outros."
+    "definicao": "Situação em que dois ou mais processos ou threads ficam bloqueados à espera de recursos uns dos outros.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Deadlock+explicado"
   },
   {
     "termo": "Mutex",
     "categoria": "Concorrência",
-    "definicao": "Mecanismo de sincronização utilizado para garantir que apenas uma thread acede a determinada região crítica de cada vez."
+    "definicao": "Mecanismo de sincronização utilizado para garantir que apenas uma thread acede a determinada região crítica de cada vez.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Mutex+explicado"
   },
   {
     "termo": "Semaphore",
     "categoria": "Concorrência",
-    "definicao": "Mecanismo de sincronização utilizado para controlar o acesso concorrente a recursos limitados."
+    "definicao": "Mecanismo de sincronização utilizado para controlar o acesso concorrente a recursos limitados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Semaphore+explicado"
   },
   {
     "termo": "Garbage Collector",
     "categoria": "Memória",
-    "definicao": "Componente responsável por identificar e libertar automaticamente memória que já não está a ser utilizada."
+    "definicao": "Componente responsável por identificar e libertar automaticamente memória que já não está a ser utilizada.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Garbage+Collector+explicado"
   },
   {
     "termo": "Garbage Collection",
     "categoria": "Memória",
-    "definicao": "Processo automático de recuperação de memória ocupada por objetos que já não podem ser utilizados."
+    "definicao": "Processo automático de recuperação de memória ocupada por objetos que já não podem ser utilizados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Garbage+Collection+explicado"
   },
   {
     "termo": "Runtime",
     "categoria": "Programação",
-    "definicao": "Ambiente e período durante o qual um programa está a ser executado."
+    "definicao": "Ambiente e período durante o qual um programa está a ser executado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Runtime+explicado"
   },
   {
     "termo": "Compile Time",
     "categoria": "Programação",
-    "definicao": "Momento em que o código-fonte é processado pelo compilador antes da execução do programa."
+    "definicao": "Momento em que o código-fonte é processado pelo compilador antes da execução do programa.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Compile+Time+explicado"
   },
   {
     "termo": "Syntax",
     "categoria": "Linguagens",
-    "definicao": "Conjunto de regras que determina como as instruções devem ser escritas numa linguagem de programação."
+    "definicao": "Conjunto de regras que determina como as instruções devem ser escritas numa linguagem de programação.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Syntax+explicado"
   },
   {
     "termo": "Semantics",
     "categoria": "Linguagens",
-    "definicao": "Significado e comportamento associado às construções de uma linguagem de programação."
+    "definicao": "Significado e comportamento associado às construções de uma linguagem de programação.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Semantics+explicado"
   },
   {
     "termo": "Parser",
     "categoria": "Compiladores",
-    "definicao": "Componente que analisa a estrutura de uma sequência de entrada de acordo com as regras de uma linguagem."
+    "definicao": "Componente que analisa a estrutura de uma sequência de entrada de acordo com as regras de uma linguagem.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Parser+explicado"
   },
   {
     "termo": "AST",
     "categoria": "Compiladores",
-    "definicao": "Árvore Sintática Abstrata que representa a estrutura lógica de um código-fonte."
+    "definicao": "Árvore Sintática Abstrata que representa a estrutura lógica de um código-fonte.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=AST+explicado"
   },
   {
     "termo": "Lexer",
     "categoria": "Compiladores",
-    "definicao": "Componente que transforma uma sequência de caracteres em unidades léxicas chamadas tokens."
+    "definicao": "Componente que transforma uma sequência de caracteres em unidades léxicas chamadas tokens.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Lexer+explicado"
   },
   {
     "termo": "Token (Compilador)",
     "categoria": "Compiladores",
-    "definicao": "Unidade significativa produzida durante a análise léxica de um código-fonte."
+    "definicao": "Unidade significativa produzida durante a análise léxica de um código-fonte.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Token+(Compilador)+explicado"
   },
   {
     "termo": "Makefile",
     "categoria": "C",
-    "definicao": "Arquivo utilizado pela ferramenta Make para definir regras de compilação e dependências de um projeto."
+    "definicao": "Arquivo utilizado pela ferramenta Make para definir regras de compilação e dependências de um projeto.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Makefile+explicado"
   },
   {
     "termo": "Make",
     "categoria": "C",
-    "definicao": "Ferramenta de automação utilizada para compilar projetos e executar tarefas com base em regras e dependências."
+    "definicao": "Ferramenta de automação utilizada para compilar projetos e executar tarefas com base em regras e dependências.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Make+explicado"
   },
   {
     "termo": "Header File",
     "categoria": "C",
-    "definicao": "Arquivo, normalmente com extensão .h, que contém declarações, protótipos, macros e outros elementos reutilizáveis."
+    "definicao": "Arquivo, normalmente com extensão .h, que contém declarações, protótipos, macros e outros elementos reutilizáveis.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Header+File+explicado"
   },
   {
     "termo": "Preprocessor",
     "categoria": "C",
-    "definicao": "Etapa que processa diretivas como #include e #define antes da compilação do código C."
+    "definicao": "Etapa que processa diretivas como #include e #define antes da compilação do código C.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Preprocessor+explicado"
   },
   {
     "termo": "Macro",
     "categoria": "C",
-    "definicao": "Construção definida pelo pré-processador que permite substituir ou expandir trechos de código antes da compilação."
+    "definicao": "Construção definida pelo pré-processador que permite substituir ou expandir trechos de código antes da compilação.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Macro+explicado"
   },
   {
     "termo": "STDIN",
     "categoria": "Unix",
-    "definicao": "Fluxo padrão de entrada utilizado por um processo para receber dados."
+    "definicao": "Fluxo padrão de entrada utilizado por um processo para receber dados.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=STDIN+explicado"
   },
   {
     "termo": "STDOUT",
     "categoria": "Unix",
-    "definicao": "Fluxo padrão utilizado por um processo para enviar saída normal."
+    "definicao": "Fluxo padrão utilizado por um processo para enviar saída normal.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=STDOUT+explicado"
   },
   {
     "termo": "STDERR",
     "categoria": "Unix",
-    "definicao": "Fluxo padrão utilizado para enviar mensagens de erro ou diagnóstico."
+    "definicao": "Fluxo padrão utilizado para enviar mensagens de erro ou diagnóstico.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=STDERR+explicado"
   },
   {
     "termo": "Exit Code",
     "categoria": "Sistemas",
-    "definicao": "Valor numérico devolvido por um processo ao terminar, utilizado para indicar o resultado da execução."
+    "definicao": "Valor numérico devolvido por um processo ao terminar, utilizado para indicar o resultado da execução.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Exit+Code+explicado"
   },
   {
     "termo": "Environment",
     "categoria": "Sistemas",
-    "definicao": "Conjunto de configurações, variáveis e recursos disponíveis para um programa durante a execução."
+    "definicao": "Conjunto de configurações, variáveis e recursos disponíveis para um programa durante a execução.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Environment+explicado"
   },
   {
     "termo": "Package Manager",
     "categoria": "Ferramentas",
-    "definicao": "Ferramenta responsável por instalar, atualizar, remover e gerir pacotes e respetivas dependências."
+    "definicao": "Ferramenta responsável por instalar, atualizar, remover e gerir pacotes e respetivas dependências.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Package+Manager+explicado"
   },
   {
     "termo": "Artifact",
     "categoria": "DevOps",
-    "definicao": "Ficheiro ou conjunto de ficheiros produzido durante um processo de desenvolvimento ou construção de software."
+    "definicao": "Ficheiro ou conjunto de ficheiros produzido durante um processo de desenvolvimento ou construção de software.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Artifact+explicado"
   },
   {
     "termo": "Monitoring",
     "categoria": "DevOps",
-    "definicao": "Processo de acompanhar métricas, logs e comportamento de sistemas para identificar problemas e avaliar o seu estado."
+    "definicao": "Processo de acompanhar métricas, logs e comportamento de sistemas para identificar problemas e avaliar o seu estado.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Monitoring+explicado"
   },
   {
     "termo": "Logging",
     "categoria": "DevOps",
-    "definicao": "Prática de registar informações sobre o funcionamento de uma aplicação ou sistema."
+    "definicao": "Prática de registar informações sobre o funcionamento de uma aplicação ou sistema.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Logging+explicado"
   },
   {
     "termo": "Log",
     "categoria": "Programação",
-    "definicao": "Registo de eventos ou informações produzidas por uma aplicação ou sistema durante a sua execução."
+    "definicao": "Registo de eventos ou informações produzidas por uma aplicação ou sistema durante a sua execução.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Log+explicado"
   },
   {
     "termo": "Observability",
     "categoria": "DevOps",
-    "definicao": "Capacidade de compreender o estado interno de um sistema através dos dados que ele produz, como logs, métricas e traces."
+    "definicao": "Capacidade de compreender o estado interno de um sistema através dos dados que ele produz, como logs, métricas e traces.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Observability+explicado"
   },
   {
     "termo": "Metric",
     "categoria": "DevOps",
-    "definicao": "Valor quantitativo utilizado para acompanhar o comportamento, desempenho ou estado de um sistema."
+    "definicao": "Valor quantitativo utilizado para acompanhar o comportamento, desempenho ou estado de um sistema.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Metric+explicado"
   },
   {
     "termo": "API Gateway",
     "categoria": "Arquitetura",
-    "definicao": "Componente que atua como ponto de entrada para APIs e pode realizar funções como roteamento, autenticação e controlo de tráfego."
+    "definicao": "Componente que atua como ponto de entrada para APIs e pode realizar funções como roteamento, autenticação e controlo de tráfego.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=API+Gateway+explicado"
   },
   {
     "termo": "Reverse Proxy",
     "categoria": "Redes",
-    "definicao": "Servidor que recebe requisições dos clientes e as encaminha para um ou mais servidores internos."
+    "definicao": "Servidor que recebe requisições dos clientes e as encaminha para um ou mais servidores internos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Reverse+Proxy+explicado"
   },
   {
     "termo": "Proxy",
     "categoria": "Redes",
-    "definicao": "Intermediário que recebe e encaminha requisições entre um cliente e outro serviço."
+    "definicao": "Intermediário que recebe e encaminha requisições entre um cliente e outro serviço.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Proxy+explicado"
   },
   {
     "termo": "CDN",
     "categoria": "Web",
-    "definicao": "Rede distribuída de servidores utilizada para entregar conteúdos aos utilizadores a partir de locais geograficamente próximos."
+    "definicao": "Rede distribuída de servidores utilizada para entregar conteúdos aos utilizadores a partir de locais geograficamente próximos.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=CDN+explicado"
   },
   {
     "termo": "DNS Record",
     "categoria": "Redes",
-    "definicao": "Entrada numa zona DNS que associa um nome de domínio a determinado tipo de informação de rede."
+    "definicao": "Entrada numa zona DNS que associa um nome de domínio a determinado tipo de informação de rede.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=DNS+Record+explicado"
   },
   {
     "termo": "Domain",
     "categoria": "Web",
-    "definicao": "Nome legível utilizado para identificar um endereço ou serviço na Internet."
+    "definicao": "Nome legível utilizado para identificar um endereço ou serviço na Internet.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Domain+explicado"
   },
   {
     "termo": "Subdomain",
     "categoria": "Web",
-    "definicao": "Domínio subordinado a outro domínio, utilizado normalmente para organizar diferentes serviços ou áreas de um site."
+    "definicao": "Domínio subordinado a outro domínio, utilizado normalmente para organizar diferentes serviços ou áreas de um site.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Subdomain+explicado"
   },
   {
     "termo": "Responsive Design",
     "categoria": "Web",
-    "definicao": "Abordagem de desenvolvimento que adapta a interface de uma aplicação a diferentes tamanhos e tipos de ecrã."
+    "definicao": "Abordagem de desenvolvimento que adapta a interface de uma aplicação a diferentes tamanhos e tipos de ecrã.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Responsive+Design+explicado"
   },
   {
     "termo": "Accessibility",
     "categoria": "Web",
-    "definicao": "Prática de desenvolver sistemas e interfaces que possam ser utilizados por pessoas com diferentes capacidades e necessidades."
+    "definicao": "Prática de desenvolver sistemas e interfaces que possam ser utilizados por pessoas com diferentes capacidades e necessidades.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=Accessibility+explicado"
   },
   {
     "termo": "SEO",
     "categoria": "Web",
-    "definicao": "Conjunto de técnicas destinadas a melhorar a visibilidade de páginas web nos resultados de motores de pesquisa."
+    "definicao": "Conjunto de técnicas destinadas a melhorar a visibilidade de páginas web nos resultados de motores de pesquisa.",
+    "exemplo": "",
+    "video_url": "https://www.youtube.com/results?search_query=SEO+explicado"
   }
 ]

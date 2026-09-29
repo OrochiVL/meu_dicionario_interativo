@@ -6,24 +6,25 @@
 <title>Dicionário do Programador</title>
 <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
+<a href="https://whatsapp.com/channel/0029Vb8fMKQ2kNFzbwVZGs2v"
+   target="_blank"
+   rel="noopener"
+   class="whatsapp-float"
+   title="Junta-te à nossa comunidade">
+  💬 Comunidade
+</a>
 <body>
   <header>
     <h1>&lt;/&gt; Dicionário do Programador</h1>
-<<<<<<< HEAD
 <p class="subtitle" id="subtitle">Porque a teoria é que faz a prática!</p>
-=======
-    <p class="subtitle"> +{{ total - 18 }} termos essenciais para quem programa</p>
->>>>>>> 363613f (inicio de beckend e front)
+
   </header>
 
   <main>
     <div class="controls">
       <input id="search" type="text" placeholder="Pesquisar termo ou definição..." autofocus>
-<<<<<<< HEAD
-      <button id="random-btn">🎲 Aleatório</button> 
-=======
       <button id="random-btn">🎲 Aleatório</button>
->>>>>>> 363613f (inicio de beckend e front)
+      <button id="theme-toggle" title="Alternar tema">🌙</button>
     </div>
 
     <div class="categories" id="categories">
@@ -38,14 +39,52 @@
     <p id="empty" class="empty" style="display:none;">Nenhum termo encontrado 🤔</p>
   </main>
 
-  <div id="modal" class="modal">
-    <div class="modal-content">
-      <button id="modal-close" class="modal-close">&times;</button>
-      <span class="modal-cat" id="modal-cat"></span>
-      <h2 id="modal-term"></h2>
-      <p id="modal-def"></p>
+<div id="modal" class="modal">
+  <div class="modal-content">
+    <button id="modal-close" class="modal-close">&times;</button>
+    <span class="modal-cat" id="modal-cat"></span>
+    <h2 id="modal-term"></h2>
+    <p id="modal-def"></p>
+
+    <div id="modal-exemplo-wrap" class="modal-exemplo-wrap">
+      <h4>Exemplo de uso</h4>
+      <p id="modal-exemplo"></p>
+    </div>
+
+    <a id="modal-video" href="#" target="_blank" rel="noopener" class="modal-video-link">
+      ▶ Ver video aula recomendada!
+    </a>
+  </div>
+</div>
+
+  <footer>
+  <div class="footer-inner">
+    <div class="footer-about">
+      <h3>Sobre mim</h3>
+      <p>Valdemiro Lino — Estudante de Programacao | Tecnologia de Informacao | Analise de Dados 🚀</p>
+    </div>
+
+    <div class="footer-contact">
+      <h3>Contactos</h3>
+      <ul>
+        <li>📧 <a href="mailto:linov5155@gmail.com">linov5155@gmail.com</a></li>
+        <li>📍 Luanda, Angola</li>
+        <li>📱 <a href="https://wa.me/244945882823">+244 945 882 823</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-social">
+      <h3>Redes</h3>
+      <div class="social-links">
+        <a href="https://github.com/OrochiVL" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://www.linkedin.com/in/valdemiro-monteiro-629981260" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://www.instagram.com/orochimiro_/" target="_blank" rel="noopener">Instagram</a>
+      </div>
     </div>
   </div>
+
+  <p class="footer-bottom">Feito com Python + Flask · hospedado na Vercel · © 2026</p>
+</footer>
 
   <script src="{{ url_for('static', filename='app.js') }}"></script>
 </body>
